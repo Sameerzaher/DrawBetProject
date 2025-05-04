@@ -1,0 +1,381 @@
+﻿Season,Date,Matchday,Home,Away,ScoreHome,ScoreAway,FixtureStatus
+2023,2023-08-11,Regular Season - 1,Almeria,Rayo Vallecano,0,2,FT
+2023,2023-08-11,Regular Season - 1,Sevilla,Valencia,1,2,FT
+2023,2023-08-12,Regular Season - 1,Real Sociedad,Girona,1,1,FT
+2023,2023-08-12,Regular Season - 1,Las Palmas,Mallorca,1,1,FT
+2023,2023-08-12,Regular Season - 1,Athletic Club,Real Madrid,0,2,FT
+2023,2023-08-13,Regular Season - 1,Celta Vigo,Osasuna,0,2,FT
+2023,2023-08-13,Regular Season - 1,Villarreal,Real Betis,1,2,FT
+2023,2023-08-13,Regular Season - 1,Getafe,Barcelona,0,0,FT
+2023,2023-08-14,Regular Season - 1,Cadiz,Alaves,1,0,FT
+2023,2023-08-14,Regular Season - 1,Atletico Madrid,Granada CF,3,1,FT
+2023,2023-08-18,Regular Season - 2,Mallorca,Villarreal,0,1,FT
+2023,2023-08-18,Regular Season - 2,Valencia,Las Palmas,1,0,FT
+2023,2023-08-19,Regular Season - 2,Real Sociedad,Celta Vigo,1,1,FT
+2023,2023-08-19,Regular Season - 2,Almeria,Real Madrid,1,3,FT
+2023,2023-08-19,Regular Season - 2,Osasuna,Athletic Club,0,2,FT
+2023,2023-08-20,Regular Season - 2,Girona,Getafe,3,0,FT
+2023,2023-08-20,Regular Season - 2,Barcelona,Cadiz,2,0,FT
+2023,2023-08-20,Regular Season - 2,Real Betis,Atletico Madrid,0,0,FT
+2023,2023-08-21,Regular Season - 2,Alaves,Sevilla,4,3,FT
+2023,2023-08-21,Regular Season - 2,Granada CF,Rayo Vallecano,0,2,FT
+2023,2023-08-25,Regular Season - 3,Las Palmas,Real Sociedad,0,0,FT
+2023,2023-08-25,Regular Season - 3,Celta Vigo,Real Madrid,0,1,FT
+2023,2023-08-26,Regular Season - 3,Cadiz,Almeria,1,1,FT
+2023,2023-08-26,Regular Season - 3,Granada CF,Mallorca,3,2,FT
+2023,2023-08-26,Regular Season - 3,Sevilla,Girona,1,2,FT
+2023,2023-08-27,Regular Season - 3,Villarreal,Barcelona,3,4,FT
+2023,2023-08-27,Regular Season - 3,Valencia,Osasuna,1,2,FT
+2023,2023-08-27,Regular Season - 3,Athletic Club,Real Betis,4,2,FT
+2023,2023-08-28,Regular Season - 3,Getafe,Alaves,1,0,FT
+2023,2023-08-28,Regular Season - 3,Rayo Vallecano,Atletico Madrid,0,7,FT
+2023,2023-09-01,Regular Season - 4,Cadiz,Villarreal,3,1,FT
+2023,2023-09-01,Regular Season - 4,Almeria,Celta Vigo,2,3,FT
+2023,2023-09-02,Regular Season - 4,Real Sociedad,Granada CF,5,3,FT
+2023,2023-09-02,Regular Season - 4,Real Madrid,Getafe,2,1,FT
+2023,2023-09-02,Regular Season - 4,Alaves,Valencia,1,0,FT
+2023,2023-09-02,Regular Season - 4,Real Betis,Rayo Vallecano,1,0,FT
+2023,2023-09-03,Regular Season - 4,Girona,Las Palmas,1,0,FT
+2023,2023-09-03,Regular Season - 4,Mallorca,Athletic Club,0,0,FT
+2023,2023-09-03,Regular Season - 4,Osasuna,Barcelona,1,2,FT
+2023,2023-09-15,Regular Season - 5,Rayo Vallecano,Alaves,2,0,FT
+2023,2023-09-16,Regular Season - 5,Athletic Club,Cadiz,3,0,FT
+2023,2023-09-16,Regular Season - 5,Valencia,Atletico Madrid,3,0,FT
+2023,2023-09-16,Regular Season - 5,Celta Vigo,Mallorca,0,1,FT
+2023,2023-09-16,Regular Season - 5,Barcelona,Real Betis,5,0,FT
+2023,2023-09-17,Regular Season - 5,Getafe,Osasuna,3,2,FT
+2023,2023-09-17,Regular Season - 5,Villarreal,Almeria,2,1,FT
+2023,2023-09-17,Regular Season - 5,Sevilla,Las Palmas,1,0,FT
+2023,2023-09-17,Regular Season - 5,Real Madrid,Real Sociedad,2,1,FT
+2023,2023-09-18,Regular Season - 5,Granada CF,Girona,2,4,FT
+2023,2023-09-22,Regular Season - 6,Alaves,Athletic Club,0,2,FT
+2023,2023-09-23,Regular Season - 6,Girona,Mallorca,5,3,FT
+2023,2023-09-23,Regular Season - 6,Osasuna,Sevilla,0,0,FT
+2023,2023-09-23,Regular Season - 6,Barcelona,Celta Vigo,3,2,FT
+2023,2023-09-23,Regular Season - 6,Almeria,Valencia,2,2,FT
+2023,2023-09-24,Regular Season - 6,Real Sociedad,Getafe,4,3,FT
+2023,2023-09-24,Regular Season - 6,Rayo Vallecano,Villarreal,1,1,FT
+2023,2023-09-24,Regular Season - 6,Las Palmas,Granada CF,1,0,FT
+2023,2023-09-24,Regular Season - 6,Real Betis,Cadiz,1,1,FT
+2023,2023-09-24,Regular Season - 6,Atletico Madrid,Real Madrid,3,1,FT
+2023,2023-09-26,Regular Season - 7,Sevilla,Almeria,5,1,FT
+2023,2023-09-26,Regular Season - 7,Mallorca,Barcelona,2,2,FT
+2023,2023-09-27,Regular Season - 7,Athletic Club,Getafe,2,2,FT
+2023,2023-09-27,Regular Season - 7,Villarreal,Girona,1,2,FT
+2023,2023-09-27,Regular Season - 7,Real Madrid,Las Palmas,2,0,FT
+2023,2023-09-27,Regular Season - 7,Valencia,Real Sociedad,0,1,FT
+2023,2023-09-27,Regular Season - 7,Cadiz,Rayo Vallecano,0,0,FT
+2023,2023-09-28,Regular Season - 7,Celta Vigo,Alaves,1,1,FT
+2023,2023-09-28,Regular Season - 7,Granada CF,Real Betis,1,1,FT
+2023,2023-09-28,Regular Season - 7,Osasuna,Atletico Madrid,0,2,FT
+2023,2023-09-29,Regular Season - 8,Barcelona,Sevilla,1,0,FT
+2023,2023-09-30,Regular Season - 8,Getafe,Villarreal,0,0,FT
+2023,2023-09-30,Regular Season - 8,Rayo Vallecano,Mallorca,2,2,FT
+2023,2023-09-30,Regular Season - 8,Girona,Real Madrid,0,3,FT
+2023,2023-09-30,Regular Season - 8,Real Sociedad,Athletic Club,3,0,FT
+2023,2023-10-01,Regular Season - 8,Almeria,Granada CF,3,3,FT
+2023,2023-10-01,Regular Season - 8,Alaves,Osasuna,0,2,FT
+2023,2023-10-01,Regular Season - 8,Atletico Madrid,Cadiz,3,2,FT
+2023,2023-10-01,Regular Season - 8,Real Betis,Valencia,3,0,FT
+2023,2023-10-02,Regular Season - 8,Las Palmas,Celta Vigo,2,1,FT
+2023,2023-10-06,Regular Season - 9,Athletic Club,Almeria,3,0,FT
+2023,2023-10-07,Regular Season - 9,Cadiz,Girona,0,1,FT
+2023,2023-10-07,Regular Season - 9,Real Madrid,Osasuna,4,0,FT
+2023,2023-10-07,Regular Season - 9,Mallorca,Valencia,1,1,FT
+2023,2023-10-07,Regular Season - 9,Sevilla,Rayo Vallecano,2,2,FT
+2023,2023-10-08,Regular Season - 9,Villarreal,Las Palmas,1,2,FT
+2023,2023-10-08,Regular Season - 9,Atletico Madrid,Real Sociedad,2,1,FT
+2023,2023-10-08,Regular Season - 9,Celta Vigo,Getafe,2,2,FT
+2023,2023-10-08,Regular Season - 9,Alaves,Real Betis,1,1,FT
+2023,2023-10-08,Regular Season - 9,Granada CF,Barcelona,2,2,FT
+2023,2023-10-20,Regular Season - 10,Osasuna,Granada CF,2,0,FT
+2023,2023-10-21,Regular Season - 10,Real Sociedad,Mallorca,1,0,FT
+2023,2023-10-21,Regular Season - 10,Getafe,Real Betis,1,1,FT
+2023,2023-10-21,Regular Season - 10,Sevilla,Real Madrid,1,1,FT
+2023,2023-10-21,Regular Season - 10,Celta Vigo,Atletico Madrid,0,3,FT
+2023,2023-10-22,Regular Season - 10,Las Palmas,Rayo Vallecano,0,1,FT
+2023,2023-10-22,Regular Season - 10,Girona,Almeria,5,2,FT
+2023,2023-10-22,Regular Season - 10,Villarreal,Alaves,1,1,FT
+2023,2023-10-22,Regular Season - 10,Barcelona,Athletic Club,1,0,FT
+2023,2023-10-23,Regular Season - 10,Valencia,Cadiz,2,0,FT
+2023,2023-10-27,Regular Season - 11,Girona,Celta Vigo,1,0,FT
+2023,2023-10-28,Regular Season - 11,Almeria,Las Palmas,1,2,FT
+2023,2023-10-28,Regular Season - 11,Barcelona,Real Madrid,1,2,FT
+2023,2023-10-28,Regular Season - 11,Mallorca,Getafe,0,0,FT
+2023,2023-10-28,Regular Season - 11,Cadiz,Sevilla,2,2,FT
+2023,2023-10-29,Regular Season - 11,Real Betis,Osasuna,2,1,FT
+2023,2023-10-29,Regular Season - 11,Rayo Vallecano,Real Sociedad,2,2,FT
+2023,2023-10-29,Regular Season - 11,Athletic Club,Valencia,2,2,FT
+2023,2023-10-29,Regular Season - 11,Atletico Madrid,Alaves,2,1,FT
+2023,2023-10-30,Regular Season - 11,Granada CF,Villarreal,2,3,FT
+2023,2023-11-03,Regular Season - 12,Las Palmas,Atletico Madrid,2,1,FT
+2023,2023-11-04,Regular Season - 12,Osasuna,Girona,2,4,FT
+2023,2023-11-04,Regular Season - 12,Real Betis,Mallorca,2,0,FT
+2023,2023-11-04,Regular Season - 12,Celta Vigo,Sevilla,1,1,FT
+2023,2023-11-04,Regular Season - 12,Real Sociedad,Barcelona,0,1,FT
+2023,2023-11-05,Regular Season - 12,Alaves,Almeria,1,0,FT
+2023,2023-11-05,Regular Season - 12,Valencia,Granada CF,1,0,FT
+2023,2023-11-05,Regular Season - 12,Villarreal,Athletic Club,2,3,FT
+2023,2023-11-05,Regular Season - 12,Real Madrid,Rayo Vallecano,0,0,FT
+2023,2023-11-06,Regular Season - 12,Getafe,Cadiz,1,0,FT
+2023,2023-11-10,Regular Season - 13,Athletic Club,Celta Vigo,4,3,FT
+2023,2023-11-11,Regular Season - 13,Rayo Vallecano,Girona,1,2,FT
+2023,2023-11-11,Regular Season - 13,Almeria,Real Sociedad,1,3,FT
+2023,2023-11-11,Regular Season - 13,Granada CF,Getafe,1,1,FT
+2023,2023-11-11,Regular Season - 13,Osasuna,Las Palmas,1,1,FT
+2023,2023-11-11,Regular Season - 13,Real Madrid,Valencia,5,1,FT
+2023,2023-11-12,Regular Season - 13,Barcelona,Alaves,2,1,FT
+2023,2023-11-12,Regular Season - 13,Sevilla,Real Betis,1,1,FT
+2023,2023-11-12,Regular Season - 13,Atletico Madrid,Villarreal,3,1,FT
+2023,2023-11-24,Regular Season - 14,Alaves,Granada CF,3,1,FT
+2023,2023-11-25,Regular Season - 14,Rayo Vallecano,Barcelona,1,1,FT
+2023,2023-11-25,Regular Season - 14,Valencia,Celta Vigo,0,0,FT
+2023,2023-11-25,Regular Season - 14,Getafe,Almeria,2,1,FT
+2023,2023-11-25,Regular Season - 14,Atletico Madrid,Mallorca,1,0,FT
+2023,2023-11-26,Regular Season - 14,Villarreal,Osasuna,3,1,FT
+2023,2023-11-26,Regular Season - 14,Real Sociedad,Sevilla,2,1,FT
+2023,2023-11-26,Regular Season - 14,Cadiz,Real Madrid,0,3,FT
+2023,2023-11-26,Regular Season - 14,Real Betis,Las Palmas,1,0,FT
+2023,2023-11-27,Regular Season - 14,Girona,Athletic Club,1,1,FT
+2023,2023-11-29,Regular Season - 13,Mallorca,Cadiz,1,1,FT
+2023,2023-12-01,Regular Season - 15,Las Palmas,Getafe,2,0,FT
+2023,2023-12-02,Regular Season - 15,Girona,Valencia,2,1,FT
+2023,2023-12-02,Regular Season - 15,Athletic Club,Rayo Vallecano,4,0,FT
+2023,2023-12-02,Regular Season - 15,Real Madrid,Granada CF,2,0,FT
+2023,2023-12-02,Regular Season - 15,Osasuna,Real Sociedad,1,1,FT
+2023,2023-12-03,Regular Season - 15,Mallorca,Alaves,0,0,FT
+2023,2023-12-03,Regular Season - 15,Almeria,Real Betis,0,0,FT
+2023,2023-12-03,Regular Season - 15,Sevilla,Villarreal,1,1,FT
+2023,2023-12-03,Regular Season - 15,Barcelona,Atletico Madrid,1,0,FT
+2023,2023-12-04,Regular Season - 15,Celta Vigo,Cadiz,1,1,FT
+2023,2023-12-08,Regular Season - 16,Getafe,Valencia,1,0,FT
+2023,2023-12-09,Regular Season - 16,Alaves,Las Palmas,0,1,FT
+2023,2023-12-09,Regular Season - 16,Real Betis,Real Madrid,1,1,FT
+2023,2023-12-09,Regular Season - 16,Villarreal,Real Sociedad,0,3,FT
+2023,2023-12-09,Regular Season - 16,Mallorca,Sevilla,1,0,FT
+2023,2023-12-10,Regular Season - 16,Atletico Madrid,Almeria,2,1,FT
+2023,2023-12-10,Regular Season - 16,Cadiz,Osasuna,1,1,FT
+2023,2023-12-10,Regular Season - 16,Barcelona,Girona,2,4,FT
+2023,2023-12-11,Regular Season - 16,Granada CF,Athletic Club,1,1,FT
+2023,2023-12-11,Regular Season - 16,Rayo Vallecano,Celta Vigo,0,0,FT
+2023,2023-12-15,Regular Season - 17,Osasuna,Rayo Vallecano,1,0,FT
+2023,2023-12-16,Regular Season - 17,Celta Vigo,Granada CF,1,0,FT
+2023,2023-12-16,Regular Season - 17,Athletic Club,Atletico Madrid,2,0,FT
+2023,2023-12-16,Regular Season - 17,Sevilla,Getafe,0,3,FT
+2023,2023-12-16,Regular Season - 17,Valencia,Barcelona,1,1,FT
+2023,2023-12-17,Regular Season - 17,Almeria,Mallorca,0,0,FT
+2023,2023-12-17,Regular Season - 17,Real Sociedad,Real Betis,0,0,FT
+2023,2023-12-17,Regular Season - 17,Las Palmas,Cadiz,1,1,FT
+2023,2023-12-17,Regular Season - 17,Real Madrid,Villarreal,4,1,FT
+2023,2023-12-18,Regular Season - 17,Girona,Alaves,3,0,FT
+2023,2023-12-19,Regular Season - 18,Rayo Vallecano,Valencia,0,1,FT
+2023,2023-12-19,Regular Season - 18,Atletico Madrid,Getafe,3,3,FT
+2023,2023-12-19,Regular Season - 18,Granada CF,Sevilla,0,3,FT
+2023,2023-12-20,Regular Season - 18,Barcelona,Almeria,3,2,FT
+2023,2023-12-20,Regular Season - 18,Athletic Club,Las Palmas,1,0,FT
+2023,2023-12-20,Regular Season - 18,Villarreal,Celta Vigo,3,2,FT
+2023,2023-12-21,Regular Season - 18,Real Betis,Girona,1,1,FT
+2023,2023-12-21,Regular Season - 18,Cadiz,Real Sociedad,0,0,FT
+2023,2023-12-21,Regular Season - 18,Alaves,Real Madrid,0,1,FT
+2023,2023-12-21,Regular Season - 18,Mallorca,Osasuna,3,2,FT
+2023,2023-12-23,Regular Season - 4,Atletico Madrid,Sevilla,1,0,FT
+2023,2024-01-02,Regular Season - 19,Getafe,Rayo Vallecano,0,2,FT
+2023,2024-01-02,Regular Season - 19,Real Sociedad,Alaves,1,1,FT
+2023,2024-01-02,Regular Season - 19,Valencia,Villarreal,3,1,FT
+2023,2024-01-03,Regular Season - 19,Granada CF,Cadiz,2,0,FT
+2023,2024-01-03,Regular Season - 19,Celta Vigo,Real Betis,2,1,FT
+2023,2024-01-03,Regular Season - 19,Real Madrid,Mallorca,1,0,FT
+2023,2024-01-03,Regular Season - 19,Girona,Atletico Madrid,4,3,FT
+2023,2024-01-04,Regular Season - 19,Osasuna,Almeria,1,0,FT
+2023,2024-01-04,Regular Season - 19,Sevilla,Athletic Club,0,2,FT
+2023,2024-01-04,Regular Season - 19,Las Palmas,Barcelona,1,2,FT
+2023,2024-01-12,Regular Season - 20,Sevilla,Alaves,2,3,FT
+2023,2024-01-13,Regular Season - 20,Las Palmas,Villarreal,3,0,FT
+2023,2024-01-13,Regular Season - 20,Mallorca,Celta Vigo,1,1,FT
+2023,2024-01-13,Regular Season - 20,Athletic Club,Real Sociedad,2,1,FT
+2023,2024-01-13,Regular Season - 20,Real Betis,Granada CF,1,0,FT
+2023,2024-01-14,Regular Season - 20,Almeria,Girona,0,0,FT
+2023,2024-01-14,Regular Season - 20,Cadiz,Valencia,1,4,FT
+2023,2024-01-19,Regular Season - 21,Alaves,Cadiz,1,0,FT
+2023,2024-01-20,Regular Season - 21,Rayo Vallecano,Las Palmas,0,2,FT
+2023,2024-01-20,Regular Season - 21,Villarreal,Mallorca,1,1,FT
+2023,2024-01-20,Regular Season - 21,Valencia,Athletic Club,1,0,FT
+2023,2024-01-20,Regular Season - 21,Celta Vigo,Real Sociedad,0,1,FT
+2023,2024-01-21,Regular Season - 21,Osasuna,Getafe,3,2,FT
+2023,2024-01-21,Regular Season - 21,Real Madrid,Almeria,3,2,FT
+2023,2024-01-21,Regular Season - 21,Real Betis,Barcelona,2,4,FT
+2023,2024-01-21,Regular Season - 21,Girona,Sevilla,5,1,FT
+2023,2024-01-22,Regular Season - 21,Granada CF,Atletico Madrid,0,1,FT
+2023,2024-01-26,Regular Season - 22,Almeria,Alaves,0,3,FT
+2023,2024-01-27,Regular Season - 22,Real Sociedad,Rayo Vallecano,0,0,FT
+2023,2024-01-27,Regular Season - 22,Las Palmas,Real Madrid,1,2,FT
+2023,2024-01-27,Regular Season - 22,Barcelona,Villarreal,3,5,FT
+2023,2024-01-27,Regular Season - 22,Mallorca,Real Betis,0,1,FT
+2023,2024-01-28,Regular Season - 22,Celta Vigo,Girona,0,1,FT
+2023,2024-01-28,Regular Season - 22,Cadiz,Athletic Club,0,0,FT
+2023,2024-01-28,Regular Season - 22,Sevilla,Osasuna,1,1,FT
+2023,2024-01-28,Regular Season - 22,Atletico Madrid,Valencia,2,0,FT
+2023,2024-01-29,Regular Season - 22,Getafe,Granada CF,2,0,FT
+2023,2024-01-31,Regular Season - 20,Barcelona,Osasuna,1,0,FT
+2023,2024-01-31,Regular Season - 20,Atletico Madrid,Rayo Vallecano,2,1,FT
+2023,2024-02-01,Regular Season - 20,Getafe,Real Madrid,0,2,FT
+2023,2024-02-02,Regular Season - 23,Athletic Club,Mallorca,4,0,FT
+2023,2024-02-03,Regular Season - 23,Valencia,Almeria,2,1,FT
+2023,2024-02-03,Regular Season - 23,Granada CF,Las Palmas,1,1,FT
+2023,2024-02-03,Regular Season - 23,Alaves,Barcelona,1,3,FT
+2023,2024-02-03,Regular Season - 23,Girona,Real Sociedad,0,0,FT
+2023,2024-02-04,Regular Season - 23,Villarreal,Cadiz,0,0,FT
+2023,2024-02-04,Regular Season - 23,Osasuna,Celta Vigo,0,3,FT
+2023,2024-02-04,Regular Season - 23,Real Betis,Getafe,1,1,FT
+2023,2024-02-04,Regular Season - 23,Real Madrid,Atletico Madrid,1,1,FT
+2023,2024-02-05,Regular Season - 23,Rayo Vallecano,Sevilla,1,2,FT
+2023,2024-02-09,Regular Season - 24,Cadiz,Real Betis,0,2,FT
+2023,2024-02-10,Regular Season - 24,Alaves,Villarreal,1,1,FT
+2023,2024-02-10,Regular Season - 24,Real Sociedad,Osasuna,0,1,FT
+2023,2024-02-10,Regular Season - 24,Real Madrid,Girona,4,0,FT
+2023,2024-02-10,Regular Season - 24,Las Palmas,Valencia,2,0,FT
+2023,2024-02-11,Regular Season - 24,Getafe,Celta Vigo,3,2,FT
+2023,2024-02-11,Regular Season - 24,Mallorca,Rayo Vallecano,2,1,FT
+2023,2024-02-11,Regular Season - 24,Sevilla,Atletico Madrid,1,0,FT
+2023,2024-02-11,Regular Season - 24,Barcelona,Granada CF,3,3,FT
+2023,2024-02-12,Regular Season - 24,Almeria,Athletic Club,0,0,FT
+2023,2024-02-16,Regular Season - 25,Villarreal,Getafe,1,1,FT
+2023,2024-02-17,Regular Season - 25,Atletico Madrid,Las Palmas,5,0,FT
+2023,2024-02-17,Regular Season - 25,Osasuna,Cadiz,2,0,FT
+2023,2024-02-17,Regular Season - 25,Celta Vigo,Barcelona,1,2,FT
+2023,2024-02-17,Regular Season - 25,Valencia,Sevilla,0,0,FT
+2023,2024-02-18,Regular Season - 25,Rayo Vallecano,Real Madrid,1,1,FT
+2023,2024-02-18,Regular Season - 25,Granada CF,Almeria,1,1,FT
+2023,2024-02-18,Regular Season - 25,Mallorca,Real Sociedad,1,2,FT
+2023,2024-02-18,Regular Season - 25,Real Betis,Alaves,0,0,FT
+2023,2024-02-19,Regular Season - 25,Athletic Club,Girona,3,2,FT
+2023,2024-02-23,Regular Season - 26,Real Sociedad,Villarreal,1,3,FT
+2023,2024-02-24,Regular Season - 26,Barcelona,Getafe,4,0,FT
+2023,2024-02-24,Regular Season - 26,Alaves,Mallorca,1,1,FT
+2023,2024-02-24,Regular Season - 26,Almeria,Atletico Madrid,2,2,FT
+2023,2024-02-25,Regular Season - 26,Cadiz,Celta Vigo,2,2,FT
+2023,2024-02-25,Regular Season - 26,Real Betis,Athletic Club,3,1,FT
+2023,2024-02-25,Regular Season - 26,Las Palmas,Osasuna,1,1,FT
+2023,2024-02-25,Regular Season - 26,Real Madrid,Sevilla,1,0,FT
+2023,2024-02-26,Regular Season - 26,Girona,Rayo Vallecano,3,0,FT
+2023,2024-03-01,Regular Season - 27,Celta Vigo,Almeria,1,0,FT
+2023,2024-03-02,Regular Season - 27,Sevilla,Real Sociedad,3,2,FT
+2023,2024-03-02,Regular Season - 27,Rayo Vallecano,Cadiz,1,1,FT
+2023,2024-03-02,Regular Season - 27,Getafe,Las Palmas,3,3,FT
+2023,2024-03-02,Regular Season - 27,Valencia,Real Madrid,2,2,FT
+2023,2024-03-03,Regular Season - 27,Villarreal,Granada CF,5,1,FT
+2023,2024-03-03,Regular Season - 27,Atletico Madrid,Real Betis,2,1,FT
+2023,2024-03-03,Regular Season - 27,Mallorca,Girona,1,0,FT
+2023,2024-03-03,Regular Season - 27,Athletic Club,Barcelona,0,0,FT
+2023,2024-03-04,Regular Season - 27,Osasuna,Alaves,1,0,FT
+2023,2024-03-08,Regular Season - 28,Barcelona,Mallorca,1,0,FT
+2023,2024-03-09,Regular Season - 28,Valencia,Getafe,1,0,FT
+2023,2024-03-09,Regular Season - 28,Cadiz,Atletico Madrid,2,0,FT
+2023,2024-03-09,Regular Season - 28,Granada CF,Real Sociedad,2,3,FT
+2023,2024-03-09,Regular Season - 28,Girona,Osasuna,2,0,FT
+2023,2024-03-10,Regular Season - 28,Alaves,Rayo Vallecano,1,0,FT
+2023,2024-03-10,Regular Season - 28,Las Palmas,Athletic Club,0,2,FT
+2023,2024-03-10,Regular Season - 28,Real Madrid,Celta Vigo,4,0,FT
+2023,2024-03-10,Regular Season - 28,Real Betis,Villarreal,2,3,FT
+2023,2024-03-11,Regular Season - 28,Almeria,Sevilla,2,2,FT
+2023,2024-03-15,Regular Season - 29,Real Sociedad,Cadiz,2,0,FT
+2023,2024-03-16,Regular Season - 29,Mallorca,Granada CF,1,0,FT
+2023,2024-03-16,Regular Season - 29,Osasuna,Real Madrid,2,4,FT
+2023,2024-03-16,Regular Season - 29,Getafe,Girona,1,0,FT
+2023,2024-03-16,Regular Season - 29,Athletic Club,Alaves,2,0,FT
+2023,2024-03-17,Regular Season - 29,Sevilla,Celta Vigo,1,2,FT
+2023,2024-03-17,Regular Season - 29,Villarreal,Valencia,1,0,FT
+2023,2024-03-17,Regular Season - 29,Las Palmas,Almeria,0,1,FT
+2023,2024-03-17,Regular Season - 29,Rayo Vallecano,Real Betis,2,0,FT
+2023,2024-03-17,Regular Season - 29,Atletico Madrid,Barcelona,0,3,FT
+2023,2024-03-29,Regular Season - 30,Cadiz,Granada CF,1,0,FT
+2023,2024-03-30,Regular Season - 30,Getafe,Sevilla,0,1,FT
+2023,2024-03-30,Regular Season - 30,Almeria,Osasuna,0,3,FT
+2023,2024-03-30,Regular Season - 30,Valencia,Mallorca,0,0,FT
+2023,2024-03-30,Regular Season - 30,Barcelona,Las Palmas,1,0,FT
+2023,2024-03-31,Regular Season - 30,Celta Vigo,Rayo Vallecano,0,0,FT
+2023,2024-03-31,Regular Season - 30,Girona,Real Betis,3,2,FT
+2023,2024-03-31,Regular Season - 30,Alaves,Real Sociedad,0,1,FT
+2023,2024-03-31,Regular Season - 30,Real Madrid,Athletic Club,2,0,FT
+2023,2024-04-01,Regular Season - 30,Villarreal,Atletico Madrid,1,2,FT
+2023,2024-04-04,Regular Season - 26,Granada CF,Valencia,0,1,FT
+2023,2024-04-12,Regular Season - 31,Real Betis,Celta Vigo,2,1,FT
+2023,2024-04-13,Regular Season - 31,Atletico Madrid,Girona,3,1,FT
+2023,2024-04-13,Regular Season - 31,Rayo Vallecano,Getafe,0,0,FT
+2023,2024-04-13,Regular Season - 31,Mallorca,Real Madrid,0,1,FT
+2023,2024-04-13,Regular Season - 31,Cadiz,Barcelona,0,1,FT
+2023,2024-04-14,Regular Season - 31,Las Palmas,Sevilla,0,2,FT
+2023,2024-04-14,Regular Season - 31,Granada CF,Alaves,2,0,FT
+2023,2024-04-14,Regular Season - 31,Athletic Club,Villarreal,1,1,FT
+2023,2024-04-14,Regular Season - 31,Real Sociedad,Almeria,2,2,FT
+2023,2024-04-15,Regular Season - 31,Osasuna,Valencia,0,1,FT
+2023,2024-04-19,Regular Season - 32,Athletic Club,Granada CF,1,1,FT
+2023,2024-04-20,Regular Season - 32,Celta Vigo,Las Palmas,4,1,FT
+2023,2024-04-20,Regular Season - 32,Rayo Vallecano,Osasuna,2,1,FT
+2023,2024-04-20,Regular Season - 32,Valencia,Real Betis,1,2,FT
+2023,2024-04-20,Regular Season - 32,Girona,Cadiz,4,1,FT
+2023,2024-04-21,Regular Season - 32,Getafe,Real Sociedad,1,1,FT
+2023,2024-04-21,Regular Season - 32,Almeria,Villarreal,1,2,FT
+2023,2024-04-21,Regular Season - 32,Alaves,Atletico Madrid,2,0,FT
+2023,2024-04-21,Regular Season - 32,Real Madrid,Barcelona,3,2,FT
+2023,2024-04-22,Regular Season - 32,Sevilla,Mallorca,2,1,FT
+2023,2024-04-26,Regular Season - 33,Real Sociedad,Real Madrid,0,1,FT
+2023,2024-04-27,Regular Season - 33,Las Palmas,Girona,0,2,FT
+2023,2024-04-27,Regular Season - 33,Almeria,Getafe,1,3,FT
+2023,2024-04-27,Regular Season - 33,Alaves,Celta Vigo,3,0,FT
+2023,2024-04-27,Regular Season - 33,Atletico Madrid,Athletic Club,3,1,FT
+2023,2024-04-28,Regular Season - 33,Cadiz,Mallorca,1,1,FT
+2023,2024-04-28,Regular Season - 33,Granada CF,Osasuna,3,0,FT
+2023,2024-04-28,Regular Season - 33,Villarreal,Rayo Vallecano,3,0,FT
+2023,2024-04-28,Regular Season - 33,Real Betis,Sevilla,1,1,FT
+2023,2024-04-29,Regular Season - 33,Barcelona,Valencia,4,2,FT
+2023,2024-05-03,Regular Season - 34,Getafe,Athletic Club,0,2,FT
+2023,2024-05-04,Regular Season - 34,Real Sociedad,Las Palmas,2,0,FT
+2023,2024-05-04,Regular Season - 34,Real Madrid,Cadiz,3,0,FT
+2023,2024-05-04,Regular Season - 34,Girona,Barcelona,4,2,FT
+2023,2024-05-04,Regular Season - 34,Mallorca,Atletico Madrid,0,1,FT
+2023,2024-05-05,Regular Season - 34,Osasuna,Real Betis,0,2,FT
+2023,2024-05-05,Regular Season - 34,Celta Vigo,Villarreal,3,2,FT
+2023,2024-05-05,Regular Season - 34,Valencia,Alaves,0,1,FT
+2023,2024-05-05,Regular Season - 34,Sevilla,Granada CF,3,0,FT
+2023,2024-05-05,Regular Season - 34,Rayo Vallecano,Almeria,0,1,FT
+2023,2024-05-10,Regular Season - 35,Alaves,Girona,2,2,FT
+2023,2024-05-11,Regular Season - 35,Mallorca,Las Palmas,1,0,FT
+2023,2024-05-11,Regular Season - 35,Villarreal,Sevilla,3,2,FT
+2023,2024-05-11,Regular Season - 35,Granada CF,Real Madrid,0,4,FT
+2023,2024-05-11,Regular Season - 35,Athletic Club,Osasuna,2,2,FT
+2023,2024-05-12,Regular Season - 35,Cadiz,Getafe,1,0,FT
+2023,2024-05-12,Regular Season - 35,Atletico Madrid,Celta Vigo,1,0,FT
+2023,2024-05-12,Regular Season - 35,Valencia,Rayo Vallecano,0,0,FT
+2023,2024-05-12,Regular Season - 35,Real Betis,Almeria,3,2,FT
+2023,2024-05-13,Regular Season - 35,Barcelona,Real Sociedad,2,0,FT
+2023,2024-05-14,Regular Season - 36,Osasuna,Mallorca,1,1,FT
+2023,2024-05-14,Regular Season - 36,Real Madrid,Alaves,5,0,FT
+2023,2024-05-14,Regular Season - 36,Girona,Villarreal,0,1,FT
+2023,2024-05-15,Regular Season - 36,Sevilla,Cadiz,0,1,FT
+2023,2024-05-15,Regular Season - 36,Rayo Vallecano,Granada CF,2,1,FT
+2023,2024-05-15,Regular Season - 36,Celta Vigo,Athletic Club,2,1,FT
+2023,2024-05-15,Regular Season - 36,Getafe,Atletico Madrid,0,3,FT
+2023,2024-05-16,Regular Season - 36,Las Palmas,Real Betis,2,2,FT
+2023,2024-05-16,Regular Season - 36,Almeria,Barcelona,0,2,FT
+2023,2024-05-16,Regular Season - 36,Real Sociedad,Valencia,1,0,FT
+2023,2024-05-18,Regular Season - 37,Alaves,Getafe,1,0,FT
+2023,2024-05-19,Regular Season - 37,Barcelona,Rayo Vallecano,3,0,FT
+2023,2024-05-19,Regular Season - 37,Atletico Madrid,Osasuna,1,4,FT
+2023,2024-05-19,Regular Season - 37,Athletic Club,Sevilla,2,0,FT
+2023,2024-05-19,Regular Season - 37,Valencia,Girona,1,3,FT
+2023,2024-05-19,Regular Season - 37,Villarreal,Real Madrid,4,4,FT
+2023,2024-05-19,Regular Season - 37,Real Betis,Real Sociedad,0,2,FT
+2023,2024-05-19,Regular Season - 37,Granada CF,Celta Vigo,1,2,FT
+2023,2024-05-19,Regular Season - 37,Cadiz,Las Palmas,0,0,FT
+2023,2024-05-19,Regular Season - 37,Mallorca,Almeria,2,2,FT
+2023,2024-05-24,Regular Season - 38,Girona,Granada CF,7,0,FT
+2023,2024-05-25,Regular Season - 38,Osasuna,Villarreal,1,1,FT
+2023,2024-05-25,Regular Season - 38,Real Sociedad,Atletico Madrid,0,2,FT
+2023,2024-05-25,Regular Season - 38,Almeria,Cadiz,6,1,FT
+2023,2024-05-25,Regular Season - 38,Rayo Vallecano,Athletic Club,0,1,FT
+2023,2024-05-25,Regular Season - 38,Real Madrid,Real Betis,0,0,FT
+2023,2024-05-26,Regular Season - 38,Getafe,Mallorca,1,2,FT
+2023,2024-05-26,Regular Season - 38,Las Palmas,Alaves,1,1,FT
+2023,2024-05-26,Regular Season - 38,Celta Vigo,Valencia,2,2,FT
+2023,2024-05-26,Regular Season - 38,Sevilla,Barcelona,1,2,FT

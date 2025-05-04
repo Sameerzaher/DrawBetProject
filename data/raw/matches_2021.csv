@@ -1,0 +1,381 @@
+﻿Season,Date,Matchday,Home,Away,ScoreHome,ScoreAway,FixtureStatus
+2021,2021-08-13,Regular Season - 1,Valencia,Getafe,1,0,FT
+2021,2021-08-14,Regular Season - 1,Cadiz,Levante,1,1,FT
+2021,2021-08-14,Regular Season - 1,Mallorca,Real Betis,1,1,FT
+2021,2021-08-14,Regular Season - 1,Alaves,Real Madrid,1,4,FT
+2021,2021-08-14,Regular Season - 1,Osasuna,Espanyol,0,0,FT
+2021,2021-08-15,Regular Season - 1,Celta Vigo,Atletico Madrid,1,2,FT
+2021,2021-08-15,Regular Season - 1,Barcelona,Real Sociedad,4,2,FT
+2021,2021-08-15,Regular Season - 1,Sevilla,Rayo Vallecano,3,0,FT
+2021,2021-08-16,Regular Season - 1,Villarreal,Granada CF,0,0,FT
+2021,2021-08-16,Regular Season - 1,Elche,Athletic Club,0,0,FT
+2021,2021-08-20,Regular Season - 2,Real Betis,Cadiz,1,1,FT
+2021,2021-08-21,Regular Season - 2,Alaves,Mallorca,0,1,FT
+2021,2021-08-21,Regular Season - 2,Espanyol,Villarreal,0,0,FT
+2021,2021-08-21,Regular Season - 2,Granada CF,Valencia,1,1,FT
+2021,2021-08-21,Regular Season - 2,Athletic Club,Barcelona,1,1,FT
+2021,2021-08-22,Regular Season - 2,Real Sociedad,Rayo Vallecano,1,0,FT
+2021,2021-08-22,Regular Season - 2,Atletico Madrid,Elche,1,0,FT
+2021,2021-08-22,Regular Season - 2,Levante,Real Madrid,3,3,FT
+2021,2021-08-23,Regular Season - 2,Getafe,Sevilla,0,1,FT
+2021,2021-08-23,Regular Season - 2,Osasuna,Celta Vigo,0,0,FT
+2021,2021-08-27,Regular Season - 3,Mallorca,Espanyol,1,0,FT
+2021,2021-08-27,Regular Season - 3,Valencia,Alaves,3,0,FT
+2021,2021-08-28,Regular Season - 3,Celta Vigo,Athletic Club,0,1,FT
+2021,2021-08-28,Regular Season - 3,Real Sociedad,Levante,1,0,FT
+2021,2021-08-28,Regular Season - 3,Elche,Sevilla,1,1,FT
+2021,2021-08-28,Regular Season - 3,Real Betis,Real Madrid,0,1,FT
+2021,2021-08-29,Regular Season - 3,Barcelona,Getafe,2,1,FT
+2021,2021-08-29,Regular Season - 3,Cadiz,Osasuna,2,3,FT
+2021,2021-08-29,Regular Season - 3,Rayo Vallecano,Granada CF,4,0,FT
+2021,2021-08-29,Regular Season - 3,Atletico Madrid,Villarreal,2,2,FT
+2021,2021-09-11,Regular Season - 4,Levante,Rayo Vallecano,1,1,FT
+2021,2021-09-11,Regular Season - 4,Athletic Club,Mallorca,2,0,FT
+2021,2021-09-12,Regular Season - 4,Espanyol,Atletico Madrid,1,2,FT
+2021,2021-09-12,Regular Season - 4,Osasuna,Valencia,1,4,FT
+2021,2021-09-12,Regular Season - 4,Cadiz,Real Sociedad,0,2,FT
+2021,2021-09-12,Regular Season - 4,Real Madrid,Celta Vigo,5,2,FT
+2021,2021-09-13,Regular Season - 4,Getafe,Elche,0,1,FT
+2021,2021-09-13,Regular Season - 4,Granada CF,Real Betis,1,2,FT
+2021,2021-09-17,Regular Season - 5,Celta Vigo,Cadiz,1,2,FT
+2021,2021-09-18,Regular Season - 5,Rayo Vallecano,Getafe,3,0,FT
+2021,2021-09-18,Regular Season - 5,Atletico Madrid,Athletic Club,0,0,FT
+2021,2021-09-18,Regular Season - 5,Elche,Levante,1,1,FT
+2021,2021-09-18,Regular Season - 5,Alaves,Osasuna,0,2,FT
+2021,2021-09-19,Regular Season - 5,Mallorca,Villarreal,0,0,FT
+2021,2021-09-19,Regular Season - 5,Real Sociedad,Sevilla,0,0,FT
+2021,2021-09-19,Regular Season - 5,Real Betis,Espanyol,2,2,FT
+2021,2021-09-19,Regular Season - 5,Valencia,Real Madrid,1,2,FT
+2021,2021-09-20,Regular Season - 5,Barcelona,Granada CF,1,1,FT
+2021,2021-09-21,Regular Season - 6,Getafe,Atletico Madrid,1,2,FT
+2021,2021-09-21,Regular Season - 6,Athletic Club,Rayo Vallecano,1,2,FT
+2021,2021-09-21,Regular Season - 6,Levante,Celta Vigo,0,2,FT
+2021,2021-09-22,Regular Season - 6,Sevilla,Valencia,3,1,FT
+2021,2021-09-22,Regular Season - 6,Espanyol,Alaves,1,0,FT
+2021,2021-09-22,Regular Season - 6,Villarreal,Elche,4,1,FT
+2021,2021-09-22,Regular Season - 6,Real Madrid,Mallorca,6,1,FT
+2021,2021-09-23,Regular Season - 6,Granada CF,Real Sociedad,2,3,FT
+2021,2021-09-23,Regular Season - 6,Osasuna,Real Betis,1,3,FT
+2021,2021-09-23,Regular Season - 6,Cadiz,Barcelona,0,0,FT
+2021,2021-09-25,Regular Season - 7,Alaves,Atletico Madrid,1,0,FT
+2021,2021-09-25,Regular Season - 7,Valencia,Athletic Club,1,1,FT
+2021,2021-09-25,Regular Season - 7,Sevilla,Espanyol,2,0,FT
+2021,2021-09-25,Regular Season - 7,Real Madrid,Villarreal,0,0,FT
+2021,2021-09-26,Regular Season - 7,Mallorca,Osasuna,2,3,FT
+2021,2021-09-26,Regular Season - 7,Barcelona,Levante,3,0,FT
+2021,2021-09-26,Regular Season - 7,Real Sociedad,Elche,1,0,FT
+2021,2021-09-26,Regular Season - 7,Rayo Vallecano,Cadiz,3,1,FT
+2021,2021-09-26,Regular Season - 7,Real Betis,Getafe,2,0,FT
+2021,2021-09-27,Regular Season - 7,Celta Vigo,Granada CF,1,0,FT
+2021,2021-10-01,Regular Season - 8,Athletic Club,Alaves,1,0,FT
+2021,2021-10-02,Regular Season - 8,Osasuna,Rayo Vallecano,1,0,FT
+2021,2021-10-02,Regular Season - 8,Mallorca,Levante,1,0,FT
+2021,2021-10-02,Regular Season - 8,Cadiz,Valencia,0,0,FT
+2021,2021-10-02,Regular Season - 8,Atletico Madrid,Barcelona,2,0,FT
+2021,2021-10-03,Regular Season - 8,Elche,Celta Vigo,1,0,FT
+2021,2021-10-03,Regular Season - 8,Espanyol,Real Madrid,2,1,FT
+2021,2021-10-03,Regular Season - 8,Villarreal,Real Betis,2,0,FT
+2021,2021-10-03,Regular Season - 8,Getafe,Real Sociedad,1,1,FT
+2021,2021-10-03,Regular Season - 8,Granada CF,Sevilla,1,0,FT
+2021,2021-10-16,Regular Season - 9,Levante,Getafe,0,0,FT
+2021,2021-10-16,Regular Season - 9,Real Sociedad,Mallorca,1,0,FT
+2021,2021-10-17,Regular Season - 9,Rayo Vallecano,Elche,2,1,FT
+2021,2021-10-17,Regular Season - 9,Celta Vigo,Sevilla,0,1,FT
+2021,2021-10-17,Regular Season - 9,Villarreal,Osasuna,1,2,FT
+2021,2021-10-17,Regular Season - 9,Barcelona,Valencia,3,1,FT
+2021,2021-10-18,Regular Season - 9,Alaves,Real Betis,0,1,FT
+2021,2021-10-18,Regular Season - 9,Espanyol,Cadiz,2,0,FT
+2021,2021-10-22,Regular Season - 10,Osasuna,Granada CF,1,1,FT
+2021,2021-10-23,Regular Season - 10,Valencia,Mallorca,2,2,FT
+2021,2021-10-23,Regular Season - 10,Cadiz,Alaves,0,2,FT
+2021,2021-10-23,Regular Season - 10,Elche,Espanyol,2,2,FT
+2021,2021-10-23,Regular Season - 10,Athletic Club,Villarreal,2,1,FT
+2021,2021-10-24,Regular Season - 10,Sevilla,Levante,5,3,FT
+2021,2021-10-24,Regular Season - 10,Barcelona,Real Madrid,1,2,FT
+2021,2021-10-24,Regular Season - 10,Real Betis,Rayo Vallecano,3,2,FT
+2021,2021-10-24,Regular Season - 10,Atletico Madrid,Real Sociedad,2,2,FT
+2021,2021-10-25,Regular Season - 10,Getafe,Celta Vigo,0,3,FT
+2021,2021-10-26,Regular Season - 11,Alaves,Elche,1,0,FT
+2021,2021-10-26,Regular Season - 11,Espanyol,Athletic Club,1,1,FT
+2021,2021-10-26,Regular Season - 11,Villarreal,Cadiz,3,3,FT
+2021,2021-10-27,Regular Season - 11,Rayo Vallecano,Barcelona,1,0,FT
+2021,2021-10-27,Regular Season - 11,Mallorca,Sevilla,1,1,FT
+2021,2021-10-27,Regular Season - 11,Real Betis,Valencia,4,1,FT
+2021,2021-10-27,Regular Season - 11,Real Madrid,Osasuna,0,0,FT
+2021,2021-10-28,Regular Season - 11,Celta Vigo,Real Sociedad,0,2,FT
+2021,2021-10-28,Regular Season - 11,Granada CF,Getafe,1,1,FT
+2021,2021-10-28,Regular Season - 11,Levante,Atletico Madrid,2,2,FT
+2021,2021-10-30,Regular Season - 12,Elche,Real Madrid,1,2,FT
+2021,2021-10-30,Regular Season - 12,Sevilla,Osasuna,2,0,FT
+2021,2021-10-30,Regular Season - 12,Valencia,Villarreal,2,0,FT
+2021,2021-10-30,Regular Season - 12,Barcelona,Alaves,1,1,FT
+2021,2021-10-31,Regular Season - 12,Cadiz,Mallorca,1,1,FT
+2021,2021-10-31,Regular Season - 12,Atletico Madrid,Real Betis,3,0,FT
+2021,2021-10-31,Regular Season - 12,Getafe,Espanyol,2,1,FT
+2021,2021-10-31,Regular Season - 12,Real Sociedad,Athletic Club,1,1,FT
+2021,2021-11-01,Regular Season - 12,Rayo Vallecano,Celta Vigo,0,0,FT
+2021,2021-11-01,Regular Season - 12,Levante,Granada CF,0,3,FT
+2021,2021-11-05,Regular Season - 13,Athletic Club,Cadiz,0,1,FT
+2021,2021-11-06,Regular Season - 13,Espanyol,Granada CF,2,0,FT
+2021,2021-11-06,Regular Season - 13,Celta Vigo,Barcelona,3,3,FT
+2021,2021-11-06,Regular Season - 13,Alaves,Levante,2,1,FT
+2021,2021-11-06,Regular Season - 13,Real Madrid,Rayo Vallecano,2,1,FT
+2021,2021-11-07,Regular Season - 13,Villarreal,Getafe,1,0,FT
+2021,2021-11-07,Regular Season - 13,Valencia,Atletico Madrid,3,3,FT
+2021,2021-11-07,Regular Season - 13,Osasuna,Real Sociedad,0,2,FT
+2021,2021-11-07,Regular Season - 13,Mallorca,Elche,2,2,FT
+2021,2021-11-07,Regular Season - 13,Real Betis,Sevilla,0,2,FT
+2021,2021-11-19,Regular Season - 14,Levante,Athletic Club,0,0,FT
+2021,2021-11-20,Regular Season - 14,Celta Vigo,Villarreal,1,1,FT
+2021,2021-11-20,Regular Season - 14,Sevilla,Alaves,2,2,FT
+2021,2021-11-20,Regular Season - 14,Atletico Madrid,Osasuna,1,0,FT
+2021,2021-11-20,Regular Season - 14,Barcelona,Espanyol,1,0,FT
+2021,2021-11-21,Regular Season - 14,Getafe,Cadiz,4,0,FT
+2021,2021-11-21,Regular Season - 14,Granada CF,Real Madrid,1,4,FT
+2021,2021-11-21,Regular Season - 14,Elche,Real Betis,0,3,FT
+2021,2021-11-21,Regular Season - 14,Real Sociedad,Valencia,0,0,FT
+2021,2021-11-22,Regular Season - 14,Rayo Vallecano,Mallorca,3,1,FT
+2021,2021-11-26,Regular Season - 15,Athletic Club,Granada CF,2,2,FT
+2021,2021-11-27,Regular Season - 15,Alaves,Celta Vigo,1,2,FT
+2021,2021-11-27,Regular Season - 15,Valencia,Rayo Vallecano,1,1,FT
+2021,2021-11-27,Regular Season - 15,Mallorca,Getafe,0,0,FT
+2021,2021-11-27,Regular Season - 15,Villarreal,Barcelona,1,3,FT
+2021,2021-11-28,Regular Season - 15,Real Betis,Levante,3,1,FT
+2021,2021-11-28,Regular Season - 15,Espanyol,Real Sociedad,1,0,FT
+2021,2021-11-28,Regular Season - 15,Cadiz,Atletico Madrid,1,4,FT
+2021,2021-11-28,Regular Season - 15,Real Madrid,Sevilla,2,1,FT
+2021,2021-11-29,Regular Season - 15,Osasuna,Elche,1,1,FT
+2021,2021-12-01,Regular Season - 9,Real Madrid,Athletic Club,1,0,FT
+2021,2021-12-03,Regular Season - 16,Granada CF,Alaves,2,1,FT
+2021,2021-12-04,Regular Season - 16,Sevilla,Villarreal,1,0,FT
+2021,2021-12-04,Regular Season - 16,Barcelona,Real Betis,0,1,FT
+2021,2021-12-04,Regular Season - 16,Atletico Madrid,Mallorca,1,2,FT
+2021,2021-12-04,Regular Season - 16,Real Sociedad,Real Madrid,0,2,FT
+2021,2021-12-05,Regular Season - 16,Rayo Vallecano,Espanyol,1,0,FT
+2021,2021-12-05,Regular Season - 16,Elche,Cadiz,3,1,FT
+2021,2021-12-05,Regular Season - 16,Levante,Osasuna,0,0,FT
+2021,2021-12-05,Regular Season - 16,Celta Vigo,Valencia,1,2,FT
+2021,2021-12-06,Regular Season - 16,Getafe,Athletic Club,0,0,FT
+2021,2021-12-10,Regular Season - 17,Mallorca,Celta Vigo,0,0,FT
+2021,2021-12-11,Regular Season - 17,Espanyol,Levante,4,3,FT
+2021,2021-12-11,Regular Season - 17,Alaves,Getafe,1,1,FT
+2021,2021-12-11,Regular Season - 17,Valencia,Elche,2,1,FT
+2021,2021-12-11,Regular Season - 17,Athletic Club,Sevilla,0,1,FT
+2021,2021-12-12,Regular Season - 17,Villarreal,Rayo Vallecano,2,0,FT
+2021,2021-12-12,Regular Season - 17,Osasuna,Barcelona,2,2,FT
+2021,2021-12-12,Regular Season - 17,Real Betis,Real Sociedad,4,0,FT
+2021,2021-12-12,Regular Season - 17,Real Madrid,Atletico Madrid,2,0,FT
+2021,2021-12-13,Regular Season - 17,Cadiz,Granada CF,1,1,FT
+2021,2021-12-17,Regular Season - 18,Celta Vigo,Espanyol,3,1,FT
+2021,2021-12-18,Regular Season - 18,Rayo Vallecano,Alaves,2,0,FT
+2021,2021-12-18,Regular Season - 18,Real Sociedad,Villarreal,1,3,FT
+2021,2021-12-18,Regular Season - 18,Barcelona,Elche,3,2,FT
+2021,2021-12-18,Regular Season - 18,Sevilla,Atletico Madrid,2,1,FT
+2021,2021-12-19,Regular Season - 18,Granada CF,Mallorca,4,1,FT
+2021,2021-12-19,Regular Season - 18,Athletic Club,Real Betis,3,2,FT
+2021,2021-12-19,Regular Season - 18,Getafe,Osasuna,1,0,FT
+2021,2021-12-19,Regular Season - 18,Real Madrid,Cadiz,0,0,FT
+2021,2021-12-20,Regular Season - 18,Levante,Valencia,3,4,FT
+2021,2021-12-21,Regular Season - 4,Villarreal,Alaves,5,2,FT
+2021,2021-12-21,Regular Season - 4,Sevilla,Barcelona,1,1,FT
+2021,2021-12-22,Regular Season - 9,Granada CF,Atletico Madrid,2,1,FT
+2021,2021-12-22,Regular Season - 21,Athletic Club,Real Madrid,1,2,FT
+2021,2021-12-31,Regular Season - 19,Valencia,Espanyol,1,2,FT
+2021,2022-01-02,Regular Season - 19,Getafe,Real Madrid,1,0,FT
+2021,2022-01-02,Regular Season - 19,Atletico Madrid,Rayo Vallecano,2,0,FT
+2021,2022-01-02,Regular Season - 19,Elche,Granada CF,0,0,FT
+2021,2022-01-02,Regular Season - 19,Alaves,Real Sociedad,1,1,FT
+2021,2022-01-02,Regular Season - 19,Real Betis,Celta Vigo,0,2,FT
+2021,2022-01-02,Regular Season - 19,Mallorca,Barcelona,0,1,FT
+2021,2022-01-03,Regular Season - 19,Villarreal,Levante,5,0,FT
+2021,2022-01-03,Regular Season - 19,Osasuna,Athletic Club,1,3,FT
+2021,2022-01-03,Regular Season - 19,Cadiz,Sevilla,0,1,FT
+2021,2022-01-08,Regular Season - 20,Levante,Mallorca,2,0,FT
+2021,2022-01-08,Regular Season - 20,Real Sociedad,Celta Vigo,1,0,FT
+2021,2022-01-08,Regular Season - 20,Granada CF,Barcelona,1,1,FT
+2021,2022-01-08,Regular Season - 20,Real Madrid,Valencia,4,1,FT
+2021,2022-01-09,Regular Season - 20,Rayo Vallecano,Real Betis,1,1,FT
+2021,2022-01-09,Regular Season - 20,Sevilla,Getafe,1,0,FT
+2021,2022-01-09,Regular Season - 20,Alaves,Athletic Club,0,0,FT
+2021,2022-01-09,Regular Season - 20,Osasuna,Cadiz,2,0,FT
+2021,2022-01-09,Regular Season - 20,Villarreal,Atletico Madrid,2,2,FT
+2021,2022-01-10,Regular Season - 20,Espanyol,Elche,1,2,FT
+2021,2022-01-16,Regular Season - 21,Elche,Villarreal,1,0,FT
+2021,2022-01-18,Regular Season - 21,Real Betis,Alaves,4,0,FT
+2021,2022-01-18,Regular Season - 21,Cadiz,Espanyol,2,2,FT
+2021,2022-01-19,Regular Season - 21,Celta Vigo,Osasuna,2,0,FT
+2021,2022-01-19,Regular Season - 21,Valencia,Sevilla,1,1,FT
+2021,2022-01-20,Regular Season - 21,Getafe,Granada CF,4,2,FT
+2021,2022-01-21,Regular Season - 22,Espanyol,Real Betis,1,4,FT
+2021,2022-01-22,Regular Season - 22,Levante,Cadiz,0,2,FT
+2021,2022-01-22,Regular Season - 22,Villarreal,Mallorca,3,0,FT
+2021,2022-01-22,Regular Season - 22,Sevilla,Celta Vigo,2,2,FT
+2021,2022-01-22,Regular Season - 22,Atletico Madrid,Valencia,3,2,FT
+2021,2022-01-23,Regular Season - 22,Granada CF,Osasuna,0,2,FT
+2021,2022-01-23,Regular Season - 22,Real Madrid,Elche,2,2,FT
+2021,2022-01-23,Regular Season - 22,Real Sociedad,Getafe,0,0,FT
+2021,2022-01-23,Regular Season - 22,Rayo Vallecano,Athletic Club,0,1,FT
+2021,2022-01-23,Regular Season - 22,Alaves,Barcelona,0,1,FT
+2021,2022-02-04,Regular Season - 23,Getafe,Levante,3,0,FT
+2021,2022-02-05,Regular Season - 23,Elche,Alaves,3,1,FT
+2021,2022-02-05,Regular Season - 23,Mallorca,Cadiz,2,1,FT
+2021,2022-02-05,Regular Season - 23,Celta Vigo,Rayo Vallecano,2,0,FT
+2021,2022-02-05,Regular Season - 23,Osasuna,Sevilla,0,0,FT
+2021,2022-02-06,Regular Season - 23,Valencia,Real Sociedad,0,0,FT
+2021,2022-02-06,Regular Season - 23,Barcelona,Atletico Madrid,4,2,FT
+2021,2022-02-06,Regular Season - 23,Real Betis,Villarreal,0,2,FT
+2021,2022-02-06,Regular Season - 23,Real Madrid,Granada CF,1,0,FT
+2021,2022-02-07,Regular Season - 23,Athletic Club,Espanyol,2,1,FT
+2021,2022-02-11,Regular Season - 24,Sevilla,Elche,2,0,FT
+2021,2022-02-12,Regular Season - 24,Cadiz,Celta Vigo,0,0,FT
+2021,2022-02-12,Regular Season - 24,Villarreal,Real Madrid,0,0,FT
+2021,2022-02-12,Regular Season - 24,Rayo Vallecano,Osasuna,0,3,FT
+2021,2022-02-12,Regular Season - 24,Atletico Madrid,Getafe,4,3,FT
+2021,2022-02-13,Regular Season - 24,Alaves,Valencia,2,1,FT
+2021,2022-02-13,Regular Season - 24,Levante,Real Betis,2,4,FT
+2021,2022-02-13,Regular Season - 24,Real Sociedad,Granada CF,2,0,FT
+2021,2022-02-13,Regular Season - 24,Espanyol,Barcelona,2,2,FT
+2021,2022-02-14,Regular Season - 24,Mallorca,Athletic Club,3,2,FT
+2021,2022-02-16,Regular Season - 21,Atletico Madrid,Levante,0,1,FT
+2021,2022-02-18,Regular Season - 25,Elche,Rayo Vallecano,2,1,FT
+2021,2022-02-19,Regular Season - 25,Granada CF,Villarreal,1,4,FT
+2021,2022-02-19,Regular Season - 25,Osasuna,Atletico Madrid,0,3,FT
+2021,2022-02-19,Regular Season - 25,Cadiz,Getafe,1,1,FT
+2021,2022-02-19,Regular Season - 25,Real Madrid,Alaves,3,0,FT
+2021,2022-02-20,Regular Season - 25,Espanyol,Sevilla,1,1,FT
+2021,2022-02-20,Regular Season - 25,Valencia,Barcelona,1,4,FT
+2021,2022-02-20,Regular Season - 25,Real Betis,Mallorca,2,1,FT
+2021,2022-02-20,Regular Season - 25,Athletic Club,Real Sociedad,4,0,FT
+2021,2022-02-21,Regular Season - 25,Celta Vigo,Levante,1,1,FT
+2021,2022-02-25,Regular Season - 26,Levante,Elche,3,0,FT
+2021,2022-02-26,Regular Season - 26,Mallorca,Valencia,0,1,FT
+2021,2022-02-26,Regular Season - 26,Getafe,Alaves,2,2,FT
+2021,2022-02-26,Regular Season - 26,Rayo Vallecano,Real Madrid,0,1,FT
+2021,2022-02-26,Regular Season - 26,Atletico Madrid,Celta Vigo,2,0,FT
+2021,2022-02-27,Regular Season - 26,Villarreal,Espanyol,5,1,FT
+2021,2022-02-27,Regular Season - 26,Sevilla,Real Betis,2,1,FT
+2021,2022-02-27,Regular Season - 26,Real Sociedad,Osasuna,1,0,FT
+2021,2022-02-27,Regular Season - 26,Barcelona,Athletic Club,4,0,FT
+2021,2022-02-28,Regular Season - 26,Granada CF,Cadiz,0,0,FT
+2021,2022-03-02,Regular Season - 21,Mallorca,Real Sociedad,0,2,FT
+2021,2022-03-04,Regular Season - 27,Alaves,Sevilla,0,0,FT
+2021,2022-03-05,Regular Season - 27,Osasuna,Villarreal,1,0,FT
+2021,2022-03-05,Regular Season - 27,Espanyol,Getafe,2,0,FT
+2021,2022-03-05,Regular Season - 27,Valencia,Granada CF,3,1,FT
+2021,2022-03-05,Regular Season - 27,Real Madrid,Real Sociedad,4,1,FT
+2021,2022-03-06,Regular Season - 27,Cadiz,Rayo Vallecano,2,0,FT
+2021,2022-03-06,Regular Season - 27,Elche,Barcelona,1,2,FT
+2021,2022-03-06,Regular Season - 27,Celta Vigo,Mallorca,4,3,FT
+2021,2022-03-06,Regular Season - 27,Real Betis,Atletico Madrid,1,3,FT
+2021,2022-03-07,Regular Season - 27,Athletic Club,Levante,3,1,FT
+2021,2022-03-11,Regular Season - 28,Atletico Madrid,Cadiz,2,1,FT
+2021,2022-03-12,Regular Season - 28,Levante,Espanyol,1,1,FT
+2021,2022-03-12,Regular Season - 28,Granada CF,Elche,0,1,FT
+2021,2022-03-12,Regular Season - 28,Villarreal,Celta Vigo,1,0,FT
+2021,2022-03-12,Regular Season - 28,Getafe,Valencia,0,0,FT
+2021,2022-03-13,Regular Season - 28,Rayo Vallecano,Sevilla,1,1,FT
+2021,2022-03-13,Regular Season - 28,Real Betis,Athletic Club,1,0,FT
+2021,2022-03-13,Regular Season - 28,Real Sociedad,Alaves,1,0,FT
+2021,2022-03-13,Regular Season - 28,Barcelona,Osasuna,4,0,FT
+2021,2022-03-14,Regular Season - 28,Mallorca,Real Madrid,0,3,FT
+2021,2022-03-18,Regular Season - 29,Athletic Club,Getafe,1,1,FT
+2021,2022-03-19,Regular Season - 29,Alaves,Granada CF,2,3,FT
+2021,2022-03-19,Regular Season - 29,Elche,Valencia,0,1,FT
+2021,2022-03-19,Regular Season - 29,Osasuna,Levante,3,1,FT
+2021,2022-03-19,Regular Season - 29,Rayo Vallecano,Atletico Madrid,0,1,FT
+2021,2022-03-20,Regular Season - 29,Espanyol,Mallorca,1,0,FT
+2021,2022-03-20,Regular Season - 29,Celta Vigo,Real Betis,0,0,FT
+2021,2022-03-20,Regular Season - 29,Cadiz,Villarreal,1,0,FT
+2021,2022-03-20,Regular Season - 29,Sevilla,Real Sociedad,0,0,FT
+2021,2022-03-20,Regular Season - 29,Real Madrid,Barcelona,0,4,FT
+2021,2022-04-02,Regular Season - 30,Getafe,Mallorca,1,0,FT
+2021,2022-04-02,Regular Season - 30,Levante,Villarreal,2,0,FT
+2021,2022-04-02,Regular Season - 30,Celta Vigo,Real Madrid,1,2,FT
+2021,2022-04-02,Regular Season - 30,Atletico Madrid,Alaves,4,1,FT
+2021,2022-04-03,Regular Season - 30,Athletic Club,Elche,2,1,FT
+2021,2022-04-03,Regular Season - 30,Real Betis,Osasuna,4,1,FT
+2021,2022-04-03,Regular Season - 30,Valencia,Cadiz,0,0,FT
+2021,2022-04-03,Regular Season - 30,Granada CF,Rayo Vallecano,2,2,FT
+2021,2022-04-03,Regular Season - 30,Barcelona,Sevilla,1,0,FT
+2021,2022-04-04,Regular Season - 30,Real Sociedad,Espanyol,1,0,FT
+2021,2022-04-08,Regular Season - 31,Sevilla,Granada CF,4,2,FT
+2021,2022-04-09,Regular Season - 31,Cadiz,Real Betis,1,2,FT
+2021,2022-04-09,Regular Season - 31,Mallorca,Atletico Madrid,1,0,FT
+2021,2022-04-09,Regular Season - 31,Villarreal,Athletic Club,1,1,FT
+2021,2022-04-09,Regular Season - 31,Real Madrid,Getafe,2,0,FT
+2021,2022-04-10,Regular Season - 31,Osasuna,Alaves,1,0,FT
+2021,2022-04-10,Regular Season - 31,Espanyol,Celta Vigo,1,0,FT
+2021,2022-04-10,Regular Season - 31,Elche,Real Sociedad,1,2,FT
+2021,2022-04-10,Regular Season - 31,Levante,Barcelona,2,3,FT
+2021,2022-04-11,Regular Season - 31,Rayo Vallecano,Valencia,1,1,FT
+2021,2022-04-15,Regular Season - 32,Real Sociedad,Real Betis,0,0,FT
+2021,2022-04-16,Regular Season - 32,Elche,Mallorca,3,0,FT
+2021,2022-04-16,Regular Season - 32,Alaves,Rayo Vallecano,1,0,FT
+2021,2022-04-16,Regular Season - 32,Valencia,Osasuna,1,2,FT
+2021,2022-04-16,Regular Season - 32,Getafe,Villarreal,1,2,FT
+2021,2022-04-17,Regular Season - 32,Granada CF,Levante,1,4,FT
+2021,2022-04-17,Regular Season - 32,Atletico Madrid,Espanyol,2,1,FT
+2021,2022-04-17,Regular Season - 32,Athletic Club,Celta Vigo,0,2,FT
+2021,2022-04-17,Regular Season - 32,Sevilla,Real Madrid,2,3,FT
+2021,2022-04-18,Regular Season - 32,Barcelona,Cadiz,0,1,FT
+2021,2022-04-19,Regular Season - 33,Mallorca,Alaves,2,1,FT
+2021,2022-04-19,Regular Season - 33,Real Betis,Elche,0,1,FT
+2021,2022-04-19,Regular Season - 33,Villarreal,Valencia,2,0,FT
+2021,2022-04-20,Regular Season - 33,Atletico Madrid,Granada CF,0,0,FT
+2021,2022-04-20,Regular Season - 33,Celta Vigo,Getafe,0,2,FT
+2021,2022-04-20,Regular Season - 33,Osasuna,Real Madrid,1,3,FT
+2021,2022-04-21,Regular Season - 33,Levante,Sevilla,2,3,FT
+2021,2022-04-21,Regular Season - 33,Espanyol,Rayo Vallecano,0,1,FT
+2021,2022-04-21,Regular Season - 33,Cadiz,Athletic Club,2,3,FT
+2021,2022-04-21,Regular Season - 33,Real Sociedad,Barcelona,0,1,FT
+2021,2022-04-24,Regular Season - 21,Barcelona,Rayo Vallecano,0,1,FT
+2021,2022-04-29,Regular Season - 34,Sevilla,Cadiz,1,1,FT
+2021,2022-04-30,Regular Season - 34,Alaves,Villarreal,2,1,FT
+2021,2022-04-30,Regular Season - 34,Real Madrid,Espanyol,4,0,FT
+2021,2022-04-30,Regular Season - 34,Valencia,Levante,1,1,FT
+2021,2022-04-30,Regular Season - 34,Athletic Club,Atletico Madrid,2,0,FT
+2021,2022-05-01,Regular Season - 34,Elche,Osasuna,1,1,FT
+2021,2022-05-01,Regular Season - 34,Granada CF,Celta Vigo,1,1,FT
+2021,2022-05-01,Regular Season - 34,Rayo Vallecano,Real Sociedad,1,1,FT
+2021,2022-05-01,Regular Season - 34,Barcelona,Mallorca,2,1,FT
+2021,2022-05-02,Regular Season - 34,Getafe,Real Betis,0,0,FT
+2021,2022-05-06,Regular Season - 35,Levante,Real Sociedad,2,1,FT
+2021,2022-05-07,Regular Season - 35,Mallorca,Granada CF,2,6,FT
+2021,2022-05-07,Regular Season - 35,Athletic Club,Valencia,0,0,FT
+2021,2022-05-07,Regular Season - 35,Celta Vigo,Alaves,4,0,FT
+2021,2022-05-07,Regular Season - 35,Cadiz,Elche,3,0,FT
+2021,2022-05-07,Regular Season - 35,Real Betis,Barcelona,1,2,FT
+2021,2022-05-08,Regular Season - 35,Getafe,Rayo Vallecano,0,0,FT
+2021,2022-05-08,Regular Season - 35,Villarreal,Sevilla,1,1,FT
+2021,2022-05-08,Regular Season - 35,Espanyol,Osasuna,1,1,FT
+2021,2022-05-08,Regular Season - 35,Atletico Madrid,Real Madrid,1,0,FT
+2021,2022-05-10,Regular Season - 36,Valencia,Real Betis,0,3,FT
+2021,2022-05-10,Regular Season - 36,Granada CF,Athletic Club,1,0,FT
+2021,2022-05-10,Regular Season - 36,Barcelona,Celta Vigo,3,1,FT
+2021,2022-05-11,Regular Season - 36,Alaves,Espanyol,2,1,FT
+2021,2022-05-11,Regular Season - 36,Osasuna,Getafe,1,1,FT
+2021,2022-05-11,Regular Season - 36,Sevilla,Mallorca,0,0,FT
+2021,2022-05-11,Regular Season - 36,Elche,Atletico Madrid,0,2,FT
+2021,2022-05-12,Regular Season - 36,Real Sociedad,Cadiz,3,0,FT
+2021,2022-05-12,Regular Season - 36,Rayo Vallecano,Villarreal,1,5,FT
+2021,2022-05-12,Regular Season - 36,Real Madrid,Levante,6,0,FT
+2021,2022-05-14,Regular Season - 37,Espanyol,Valencia,1,1,FT
+2021,2022-05-15,Regular Season - 37,Atletico Madrid,Sevilla,1,1,FT
+2021,2022-05-15,Regular Season - 37,Athletic Club,Osasuna,2,0,FT
+2021,2022-05-15,Regular Season - 37,Villarreal,Real Sociedad,1,2,FT
+2021,2022-05-15,Regular Season - 37,Celta Vigo,Elche,1,0,FT
+2021,2022-05-15,Regular Season - 37,Levante,Alaves,3,1,FT
+2021,2022-05-15,Regular Season - 37,Real Betis,Granada CF,2,0,FT
+2021,2022-05-15,Regular Season - 37,Getafe,Barcelona,0,0,FT
+2021,2022-05-15,Regular Season - 37,Cadiz,Real Madrid,1,1,FT
+2021,2022-05-15,Regular Season - 37,Mallorca,Rayo Vallecano,2,1,FT
+2021,2022-05-20,Regular Season - 38,Real Madrid,Real Betis,0,0,FT
+2021,2022-05-20,Regular Season - 38,Rayo Vallecano,Levante,2,4,FT
+2021,2022-05-21,Regular Season - 38,Valencia,Celta Vigo,2,0,FT
+2021,2022-05-22,Regular Season - 38,Elche,Getafe,3,1,FT
+2021,2022-05-22,Regular Season - 38,Alaves,Cadiz,0,1,FT
+2021,2022-05-22,Regular Season - 38,Granada CF,Espanyol,0,0,FT
+2021,2022-05-22,Regular Season - 38,Osasuna,Mallorca,0,2,FT
+2021,2022-05-22,Regular Season - 38,Barcelona,Villarreal,0,2,FT
+2021,2022-05-22,Regular Season - 38,Sevilla,Athletic Club,1,0,FT
+2021,2022-05-22,Regular Season - 38,Real Sociedad,Atletico Madrid,1,2,FT
