@@ -1,21 +1,761 @@
-Rank,Team,Points,Season
-1,Barcelona,88,2022
-2,Real Madrid,78,2022
-3,Atletico Madrid,77,2022
-4,Real Sociedad,71,2022
-5,Villarreal,64,2022
-6,Real Betis,60,2022
-7,Osasuna,53,2022
-8,Athletic Club,51,2022
-9,Mallorca,50,2022
-10,Girona,49,2022
-11,Rayo Vallecano,49,2022
-12,Sevilla,49,2022
-13,Celta Vigo,43,2022
-14,Cadiz,42,2022
-15,Getafe,42,2022
-16,Valencia,42,2022
-17,Almeria,41,2022
-18,Valladolid,40,2022
-19,Espanyol,37,2022
-20,Elche,25,2022
+Season,Matchday,Team,Rank
+2022,1,Atletico Madrid,1
+2022,1,Osasuna,2
+2022,1,Real Betis,3
+2022,1,Real Madrid,4
+2022,1,Real Sociedad,5
+2022,1,Valencia,6
+2022,1,Villarreal,7
+2022,1,Athletic Club,8
+2022,1,Barcelona,9
+2022,1,Celta Vigo,10
+2022,1,Espanyol,11
+2022,1,Mallorca,12
+2022,1,Rayo Vallecano,13
+2022,1,Almeria,14
+2022,1,Cadiz,15
+2022,1,Elche,16
+2022,1,Getafe,17
+2022,1,Girona,18
+2022,1,Sevilla,19
+2022,1,Valladolid,20
+2022,2,Osasuna,1
+2022,2,Real Betis,2
+2022,2,Real Madrid,3
+2022,2,Villarreal,4
+2022,2,Athletic Club,5
+2022,2,Barcelona,6
+2022,2,Rayo Vallecano,7
+2022,2,Atletico Madrid,8
+2022,2,Girona,9
+2022,2,Real Sociedad,10
+2022,2,Valencia,11
+2022,2,Almeria,12
+2022,2,Celta Vigo,13
+2022,2,Elche,14
+2022,2,Espanyol,15
+2022,2,Mallorca,16
+2022,2,Sevilla,17
+2022,2,Valladolid,18
+2022,2,Cadiz,19
+2022,2,Getafe,20
+2022,3,Real Betis,1
+2022,3,Real Madrid,2
+2022,3,Athletic Club,3
+2022,3,Barcelona,4
+2022,3,Villarreal,5
+2022,3,Atletico Madrid,6
+2022,3,Osasuna,7
+2022,3,Real Sociedad,8
+2022,3,Almeria,9
+2022,3,Celta Vigo,10
+2022,3,Mallorca,11
+2022,3,Rayo Vallecano,12
+2022,3,Girona,13
+2022,3,Valencia,14
+2022,3,Elche,15
+2022,3,Espanyol,16
+2022,3,Getafe,17
+2022,3,Sevilla,18
+2022,3,Valladolid,19
+2022,3,Cadiz,20
+2022,4,Real Madrid,1
+2022,4,Barcelona,2
+2022,4,Villarreal,3
+2022,4,Osasuna,4
+2022,4,Real Betis,5
+2022,4,Athletic Club,6
+2022,4,Atletico Madrid,7
+2022,4,Celta Vigo,8
+2022,4,Real Sociedad,9
+2022,4,Valencia,10
+2022,4,Mallorca,11
+2022,4,Almeria,12
+2022,4,Espanyol,13
+2022,4,Girona,14
+2022,4,Rayo Vallecano,15
+2022,4,Valladolid,16
+2022,4,Elche,17
+2022,4,Getafe,18
+2022,4,Sevilla,19
+2022,4,Cadiz,20
+2022,5,Real Madrid,1
+2022,5,Barcelona,2
+2022,5,Osasuna,3
+2022,5,Real Betis,4
+2022,5,Athletic Club,5
+2022,5,Atletico Madrid,6
+2022,5,Villarreal,7
+2022,5,Celta Vigo,8
+2022,5,Girona,9
+2022,5,Rayo Vallecano,10
+2022,5,Real Sociedad,11
+2022,5,Valencia,12
+2022,5,Mallorca,13
+2022,5,Almeria,14
+2022,5,Espanyol,15
+2022,5,Getafe,16
+2022,5,Sevilla,17
+2022,5,Valladolid,18
+2022,5,Elche,19
+2022,5,Cadiz,20
+2022,6,Real Madrid,1
+2022,6,Barcelona,2
+2022,6,Real Betis,3
+2022,6,Athletic Club,4
+2022,6,Osasuna,5
+2022,6,Villarreal,6
+2022,6,Atletico Madrid,7
+2022,6,Real Sociedad,8
+2022,6,Valencia,9
+2022,6,Mallorca,10
+2022,6,Celta Vigo,11
+2022,6,Getafe,12
+2022,6,Girona,13
+2022,6,Rayo Vallecano,14
+2022,6,Sevilla,15
+2022,6,Almeria,16
+2022,6,Espanyol,17
+2022,6,Valladolid,18
+2022,6,Cadiz,19
+2022,6,Elche,20
+2022,7,Barcelona,1
+2022,7,Real Madrid,2
+2022,7,Athletic Club,3
+2022,7,Real Betis,4
+2022,7,Atletico Madrid,5
+2022,7,Osasuna,6
+2022,7,Real Sociedad,7
+2022,7,Villarreal,8
+2022,7,Celta Vigo,9
+2022,7,Rayo Vallecano,10
+2022,7,Valencia,11
+2022,7,Mallorca,12
+2022,7,Getafe,13
+2022,7,Girona,14
+2022,7,Valladolid,15
+2022,7,Espanyol,16
+2022,7,Sevilla,17
+2022,7,Almeria,18
+2022,7,Cadiz,19
+2022,7,Elche,20
+2022,8,Barcelona,1
+2022,8,Real Madrid,2
+2022,8,Athletic Club,3
+2022,8,Atletico Madrid,4
+2022,8,Real Betis,5
+2022,8,Real Sociedad,6
+2022,8,Osasuna,7
+2022,8,Valencia,8
+2022,8,Villarreal,9
+2022,8,Celta Vigo,10
+2022,8,Rayo Vallecano,11
+2022,8,Mallorca,12
+2022,8,Valladolid,13
+2022,8,Almeria,14
+2022,8,Getafe,15
+2022,8,Girona,16
+2022,8,Espanyol,17
+2022,8,Sevilla,18
+2022,8,Cadiz,19
+2022,8,Elche,20
+2022,9,Real Madrid,1
+2022,9,Barcelona,2
+2022,9,Atletico Madrid,3
+2022,9,Real Betis,4
+2022,9,Real Sociedad,5
+2022,9,Athletic Club,6
+2022,9,Villarreal,7
+2022,9,Valencia,8
+2022,9,Osasuna,9
+2022,9,Rayo Vallecano,10
+2022,9,Celta Vigo,11
+2022,9,Espanyol,12
+2022,9,Mallorca,13
+2022,9,Sevilla,14
+2022,9,Getafe,15
+2022,9,Girona,16
+2022,9,Valladolid,17
+2022,9,Almeria,18
+2022,9,Cadiz,19
+2022,9,Elche,20
+2022,10,Real Madrid,1
+2022,10,Barcelona,2
+2022,10,Real Sociedad,3
+2022,10,Atletico Madrid,4
+2022,10,Real Betis,5
+2022,10,Athletic Club,6
+2022,10,Osasuna,7
+2022,10,Valencia,8
+2022,10,Villarreal,9
+2022,10,Rayo Vallecano,10
+2022,10,Valladolid,11
+2022,10,Almeria,12
+2022,10,Celta Vigo,13
+2022,10,Sevilla,14
+2022,10,Espanyol,15
+2022,10,Getafe,16
+2022,10,Mallorca,17
+2022,10,Girona,18
+2022,10,Cadiz,19
+2022,10,Elche,20
+2022,11,Real Madrid,1
+2022,11,Barcelona,2
+2022,11,Atletico Madrid,3
+2022,11,Real Sociedad,4
+2022,11,Real Betis,5
+2022,11,Athletic Club,6
+2022,11,Villarreal,7
+2022,11,Osasuna,8
+2022,11,Rayo Vallecano,9
+2022,11,Valencia,10
+2022,11,Valladolid,11
+2022,11,Mallorca,12
+2022,11,Celta Vigo,13
+2022,11,Almeria,14
+2022,11,Espanyol,15
+2022,11,Getafe,16
+2022,11,Sevilla,17
+2022,11,Girona,18
+2022,11,Cadiz,19
+2022,11,Elche,20
+2022,12,Real Madrid,1
+2022,12,Barcelona,2
+2022,12,Atletico Madrid,3
+2022,12,Real Betis,4
+2022,12,Real Sociedad,5
+2022,12,Athletic Club,6
+2022,12,Osasuna,7
+2022,12,Rayo Vallecano,8
+2022,12,Villarreal,9
+2022,12,Valencia,10
+2022,12,Valladolid,11
+2022,12,Almeria,12
+2022,12,Getafe,13
+2022,12,Mallorca,14
+2022,12,Celta Vigo,15
+2022,12,Espanyol,16
+2022,12,Cadiz,17
+2022,12,Girona,18
+2022,12,Sevilla,19
+2022,12,Elche,20
+2022,13,Barcelona,1
+2022,13,Real Madrid,2
+2022,13,Atletico Madrid,3
+2022,13,Real Betis,4
+2022,13,Osasuna,5
+2022,13,Real Sociedad,6
+2022,13,Athletic Club,7
+2022,13,Rayo Vallecano,8
+2022,13,Villarreal,9
+2022,13,Valladolid,10
+2022,13,Mallorca,11
+2022,13,Valencia,12
+2022,13,Getafe,13
+2022,13,Almeria,14
+2022,13,Girona,15
+2022,13,Espanyol,16
+2022,13,Cadiz,17
+2022,13,Celta Vigo,18
+2022,13,Sevilla,19
+2022,13,Elche,20
+2022,14,Barcelona,1
+2022,14,Real Madrid,2
+2022,14,Real Sociedad,3
+2022,14,Athletic Club,4
+2022,14,Atletico Madrid,5
+2022,14,Real Betis,6
+2022,14,Osasuna,7
+2022,14,Rayo Vallecano,8
+2022,14,Villarreal,9
+2022,14,Mallorca,10
+2022,14,Valencia,11
+2022,14,Valladolid,12
+2022,14,Almeria,13
+2022,14,Girona,14
+2022,14,Getafe,15
+2022,14,Celta Vigo,16
+2022,14,Espanyol,17
+2022,14,Cadiz,18
+2022,14,Sevilla,19
+2022,14,Elche,20
+2022,15,Barcelona,1
+2022,15,Real Madrid,2
+2022,15,Real Sociedad,3
+2022,15,Atletico Madrid,4
+2022,15,Athletic Club,5
+2022,15,Real Betis,6
+2022,15,Villarreal,7
+2022,15,Osasuna,8
+2022,15,Rayo Vallecano,9
+2022,15,Mallorca,10
+2022,15,Valencia,11
+2022,15,Almeria,12
+2022,15,Getafe,13
+2022,15,Girona,14
+2022,15,Valladolid,15
+2022,15,Celta Vigo,16
+2022,15,Espanyol,17
+2022,15,Cadiz,18
+2022,15,Sevilla,19
+2022,15,Elche,20
+2022,16,Barcelona,1
+2022,16,Real Madrid,2
+2022,16,Real Sociedad,3
+2022,16,Real Betis,4
+2022,16,Atletico Madrid,5
+2022,16,Villarreal,6
+2022,16,Athletic Club,7
+2022,16,Osasuna,8
+2022,16,Rayo Vallecano,9
+2022,16,Mallorca,10
+2022,16,Valencia,11
+2022,16,Girona,12
+2022,16,Almeria,13
+2022,16,Getafe,14
+2022,16,Valladolid,15
+2022,16,Celta Vigo,16
+2022,16,Cadiz,17
+2022,16,Sevilla,18
+2022,16,Espanyol,19
+2022,16,Elche,20
+2022,17,Barcelona,1
+2022,17,Real Madrid,2
+2022,17,Real Sociedad,3
+2022,17,Atletico Madrid,4
+2022,17,Real Betis,5
+2022,17,Villarreal,6
+2022,17,Osasuna,7
+2022,17,Athletic Club,8
+2022,17,Rayo Vallecano,9
+2022,17,Mallorca,10
+2022,17,Girona,11
+2022,17,Valencia,12
+2022,17,Almeria,13
+2022,17,Celta Vigo,14
+2022,17,Espanyol,15
+2022,17,Getafe,16
+2022,17,Valladolid,17
+2022,17,Cadiz,18
+2022,17,Sevilla,19
+2022,17,Elche,20
+2022,18,Barcelona,1
+2022,18,Real Madrid,2
+2022,18,Real Sociedad,3
+2022,18,Atletico Madrid,4
+2022,18,Villarreal,5
+2022,18,Osasuna,6
+2022,18,Real Betis,7
+2022,18,Athletic Club,8
+2022,18,Rayo Vallecano,9
+2022,18,Mallorca,10
+2022,18,Girona,11
+2022,18,Espanyol,12
+2022,18,Valencia,13
+2022,18,Almeria,14
+2022,18,Sevilla,15
+2022,18,Celta Vigo,16
+2022,18,Getafe,17
+2022,18,Valladolid,18
+2022,18,Cadiz,19
+2022,18,Elche,20
+2022,19,Barcelona,1
+2022,19,Real Madrid,2
+2022,19,Real Sociedad,3
+2022,19,Atletico Madrid,4
+2022,19,Real Betis,5
+2022,19,Villarreal,6
+2022,19,Rayo Vallecano,7
+2022,19,Osasuna,8
+2022,19,Athletic Club,9
+2022,19,Mallorca,10
+2022,19,Almeria,11
+2022,19,Girona,12
+2022,19,Sevilla,13
+2022,19,Celta Vigo,14
+2022,19,Espanyol,15
+2022,19,Valencia,16
+2022,19,Valladolid,17
+2022,19,Cadiz,18
+2022,19,Getafe,19
+2022,19,Elche,20
+2022,20,Barcelona,1
+2022,20,Real Madrid,2
+2022,20,Real Sociedad,3
+2022,20,Atletico Madrid,4
+2022,20,Rayo Vallecano,5
+2022,20,Real Betis,6
+2022,20,Villarreal,7
+2022,20,Athletic Club,8
+2022,20,Osasuna,9
+2022,20,Mallorca,10
+2022,20,Girona,11
+2022,20,Celta Vigo,12
+2022,20,Valladolid,13
+2022,20,Almeria,14
+2022,20,Espanyol,15
+2022,20,Sevilla,16
+2022,20,Valencia,17
+2022,20,Cadiz,18
+2022,20,Getafe,19
+2022,20,Elche,20
+2022,21,Barcelona,1
+2022,21,Real Madrid,2
+2022,21,Real Sociedad,3
+2022,21,Atletico Madrid,4
+2022,21,Real Betis,5
+2022,21,Rayo Vallecano,6
+2022,21,Athletic Club,7
+2022,21,Villarreal,8
+2022,21,Osasuna,9
+2022,21,Mallorca,10
+2022,21,Girona,11
+2022,21,Sevilla,12
+2022,21,Valladolid,13
+2022,21,Celta Vigo,14
+2022,21,Almeria,15
+2022,21,Cadiz,16
+2022,21,Espanyol,17
+2022,21,Valencia,18
+2022,21,Getafe,19
+2022,21,Elche,20
+2022,22,Barcelona,1
+2022,22,Real Madrid,2
+2022,22,Real Sociedad,3
+2022,22,Atletico Madrid,4
+2022,22,Real Betis,5
+2022,22,Rayo Vallecano,6
+2022,22,Athletic Club,7
+2022,22,Mallorca,8
+2022,22,Villarreal,9
+2022,22,Osasuna,10
+2022,22,Girona,11
+2022,22,Sevilla,12
+2022,22,Celta Vigo,13
+2022,22,Espanyol,14
+2022,22,Valladolid,15
+2022,22,Almeria,16
+2022,22,Cadiz,17
+2022,22,Getafe,18
+2022,22,Valencia,19
+2022,22,Elche,20
+2022,23,Barcelona,1
+2022,23,Real Madrid,2
+2022,23,Real Sociedad,3
+2022,23,Atletico Madrid,4
+2022,23,Real Betis,5
+2022,23,Rayo Vallecano,6
+2022,23,Villarreal,7
+2022,23,Osasuna,8
+2022,23,Athletic Club,9
+2022,23,Mallorca,10
+2022,23,Girona,11
+2022,23,Celta Vigo,12
+2022,23,Espanyol,13
+2022,23,Almeria,14
+2022,23,Cadiz,15
+2022,23,Sevilla,16
+2022,23,Valladolid,17
+2022,23,Valencia,18
+2022,23,Getafe,19
+2022,23,Elche,20
+2022,24,Barcelona,1
+2022,24,Real Madrid,2
+2022,24,Atletico Madrid,3
+2022,24,Real Sociedad,4
+2022,24,Real Betis,5
+2022,24,Villarreal,6
+2022,24,Rayo Vallecano,7
+2022,24,Osasuna,8
+2022,24,Athletic Club,9
+2022,24,Mallorca,10
+2022,24,Girona,11
+2022,24,Celta Vigo,12
+2022,24,Espanyol,13
+2022,24,Valladolid,14
+2022,24,Cadiz,15
+2022,24,Almeria,16
+2022,24,Getafe,17
+2022,24,Sevilla,18
+2022,24,Valencia,19
+2022,24,Elche,20
+2022,25,Barcelona,1
+2022,25,Real Madrid,2
+2022,25,Atletico Madrid,3
+2022,25,Real Sociedad,4
+2022,25,Real Betis,5
+2022,25,Villarreal,6
+2022,25,Rayo Vallecano,7
+2022,25,Osasuna,8
+2022,25,Athletic Club,9
+2022,25,Mallorca,10
+2022,25,Celta Vigo,11
+2022,25,Girona,12
+2022,25,Sevilla,13
+2022,25,Valladolid,14
+2022,25,Cadiz,15
+2022,25,Espanyol,16
+2022,25,Getafe,17
+2022,25,Valencia,18
+2022,25,Almeria,19
+2022,25,Elche,20
+2022,26,Barcelona,1
+2022,26,Real Madrid,2
+2022,26,Atletico Madrid,3
+2022,26,Real Sociedad,4
+2022,26,Real Betis,5
+2022,26,Villarreal,6
+2022,26,Athletic Club,7
+2022,26,Rayo Vallecano,8
+2022,26,Celta Vigo,9
+2022,26,Osasuna,10
+2022,26,Mallorca,11
+2022,26,Girona,12
+2022,26,Getafe,13
+2022,26,Cadiz,14
+2022,26,Sevilla,15
+2022,26,Valladolid,16
+2022,26,Espanyol,17
+2022,26,Almeria,18
+2022,26,Valencia,19
+2022,26,Elche,20
+2022,27,Barcelona,1
+2022,27,Real Madrid,2
+2022,27,Atletico Madrid,3
+2022,27,Real Sociedad,4
+2022,27,Real Betis,5
+2022,27,Villarreal,6
+2022,27,Athletic Club,7
+2022,27,Rayo Vallecano,8
+2022,27,Celta Vigo,9
+2022,27,Osasuna,10
+2022,27,Girona,11
+2022,27,Mallorca,12
+2022,27,Sevilla,13
+2022,27,Getafe,14
+2022,27,Cadiz,15
+2022,27,Valladolid,16
+2022,27,Almeria,17
+2022,27,Espanyol,18
+2022,27,Valencia,19
+2022,27,Elche,20
+2022,28,Barcelona,1
+2022,28,Real Madrid,2
+2022,28,Atletico Madrid,3
+2022,28,Real Sociedad,4
+2022,28,Villarreal,5
+2022,28,Real Betis,6
+2022,28,Athletic Club,7
+2022,28,Osasuna,8
+2022,28,Rayo Vallecano,9
+2022,28,Celta Vigo,10
+2022,28,Girona,11
+2022,28,Mallorca,12
+2022,28,Sevilla,13
+2022,28,Cadiz,14
+2022,28,Almeria,15
+2022,28,Getafe,16
+2022,28,Valladolid,17
+2022,28,Espanyol,18
+2022,28,Valencia,19
+2022,28,Elche,20
+2022,29,Barcelona,1
+2022,29,Real Madrid,2
+2022,29,Atletico Madrid,3
+2022,29,Real Sociedad,4
+2022,29,Real Betis,5
+2022,29,Villarreal,6
+2022,29,Athletic Club,7
+2022,29,Rayo Vallecano,8
+2022,29,Girona,9
+2022,29,Osasuna,10
+2022,29,Mallorca,11
+2022,29,Celta Vigo,12
+2022,29,Sevilla,13
+2022,29,Valladolid,14
+2022,29,Cadiz,15
+2022,29,Getafe,16
+2022,29,Almeria,17
+2022,29,Espanyol,18
+2022,29,Valencia,19
+2022,29,Elche,20
+2022,30,Barcelona,1
+2022,30,Real Madrid,2
+2022,30,Atletico Madrid,3
+2022,30,Real Sociedad,4
+2022,30,Real Betis,5
+2022,30,Villarreal,6
+2022,30,Athletic Club,7
+2022,30,Osasuna,8
+2022,30,Mallorca,9
+2022,30,Rayo Vallecano,10
+2022,30,Girona,11
+2022,30,Sevilla,12
+2022,30,Celta Vigo,13
+2022,30,Valladolid,14
+2022,30,Cadiz,15
+2022,30,Getafe,16
+2022,30,Almeria,17
+2022,30,Valencia,18
+2022,30,Espanyol,19
+2022,30,Elche,20
+2022,31,Barcelona,1
+2022,31,Real Madrid,2
+2022,31,Atletico Madrid,3
+2022,31,Real Sociedad,4
+2022,31,Villarreal,5
+2022,31,Real Betis,6
+2022,31,Athletic Club,7
+2022,31,Osasuna,8
+2022,31,Rayo Vallecano,9
+2022,31,Girona,10
+2022,31,Sevilla,11
+2022,31,Mallorca,12
+2022,31,Celta Vigo,13
+2022,31,Valladolid,14
+2022,31,Almeria,15
+2022,31,Valencia,16
+2022,31,Cadiz,17
+2022,31,Getafe,18
+2022,31,Espanyol,19
+2022,31,Elche,20
+2022,32,Barcelona,1
+2022,32,Real Madrid,2
+2022,32,Atletico Madrid,3
+2022,32,Real Sociedad,4
+2022,32,Villarreal,5
+2022,32,Real Betis,6
+2022,32,Athletic Club,7
+2022,32,Girona,8
+2022,32,Osasuna,9
+2022,32,Rayo Vallecano,10
+2022,32,Mallorca,11
+2022,32,Sevilla,12
+2022,32,Celta Vigo,13
+2022,32,Cadiz,14
+2022,32,Valladolid,15
+2022,32,Almeria,16
+2022,32,Valencia,17
+2022,32,Espanyol,18
+2022,32,Getafe,19
+2022,32,Elche,20
+2022,33,Barcelona,1
+2022,33,Atletico Madrid,2
+2022,33,Real Madrid,3
+2022,33,Real Sociedad,4
+2022,33,Villarreal,5
+2022,33,Real Betis,6
+2022,33,Athletic Club,7
+2022,33,Girona,8
+2022,33,Rayo Vallecano,9
+2022,33,Osasuna,10
+2022,33,Sevilla,11
+2022,33,Mallorca,12
+2022,33,Celta Vigo,13
+2022,33,Almeria,14
+2022,33,Cadiz,15
+2022,33,Valladolid,16
+2022,33,Getafe,17
+2022,33,Valencia,18
+2022,33,Espanyol,19
+2022,33,Elche,20
+2022,34,Barcelona,1
+2022,34,Real Madrid,2
+2022,34,Atletico Madrid,3
+2022,34,Real Sociedad,4
+2022,34,Villarreal,5
+2022,34,Real Betis,6
+2022,34,Girona,7
+2022,34,Athletic Club,8
+2022,34,Osasuna,9
+2022,34,Sevilla,10
+2022,34,Rayo Vallecano,11
+2022,34,Mallorca,12
+2022,34,Celta Vigo,13
+2022,34,Valencia,14
+2022,34,Almeria,15
+2022,34,Cadiz,16
+2022,34,Valladolid,17
+2022,34,Getafe,18
+2022,34,Espanyol,19
+2022,34,Elche,20
+2022,35,Barcelona,1
+2022,35,Atletico Madrid,2
+2022,35,Real Madrid,3
+2022,35,Real Sociedad,4
+2022,35,Villarreal,5
+2022,35,Real Betis,6
+2022,35,Athletic Club,7
+2022,35,Girona,8
+2022,35,Sevilla,9
+2022,35,Osasuna,10
+2022,35,Rayo Vallecano,11
+2022,35,Mallorca,12
+2022,35,Valencia,13
+2022,35,Almeria,14
+2022,35,Celta Vigo,15
+2022,35,Cadiz,16
+2022,35,Getafe,17
+2022,35,Valladolid,18
+2022,35,Espanyol,19
+2022,35,Elche,20
+2022,36,Barcelona,1
+2022,36,Real Madrid,2
+2022,36,Atletico Madrid,3
+2022,36,Real Sociedad,4
+2022,36,Villarreal,5
+2022,36,Real Betis,6
+2022,36,Athletic Club,7
+2022,36,Osasuna,8
+2022,36,Girona,9
+2022,36,Sevilla,10
+2022,36,Mallorca,11
+2022,36,Rayo Vallecano,12
+2022,36,Celta Vigo,13
+2022,36,Valencia,14
+2022,36,Almeria,15
+2022,36,Cadiz,16
+2022,36,Getafe,17
+2022,36,Valladolid,18
+2022,36,Espanyol,19
+2022,36,Elche,20
+2022,37,Barcelona,1
+2022,37,Real Madrid,2
+2022,37,Atletico Madrid,3
+2022,37,Real Sociedad,4
+2022,37,Villarreal,5
+2022,37,Real Betis,6
+2022,37,Athletic Club,7
+2022,37,Osasuna,8
+2022,37,Girona,9
+2022,37,Rayo Vallecano,10
+2022,37,Sevilla,11
+2022,37,Mallorca,12
+2022,37,Cadiz,13
+2022,37,Getafe,14
+2022,37,Valencia,15
+2022,37,Almeria,16
+2022,37,Celta Vigo,17
+2022,37,Valladolid,18
+2022,37,Espanyol,19
+2022,37,Elche,20
+2022,38,Barcelona,1
+2022,38,Real Madrid,2
+2022,38,Atletico Madrid,3
+2022,38,Real Sociedad,4
+2022,38,Villarreal,5
+2022,38,Real Betis,6
+2022,38,Osasuna,7
+2022,38,Athletic Club,8
+2022,38,Mallorca,9
+2022,38,Girona,10
+2022,38,Rayo Vallecano,11
+2022,38,Sevilla,12
+2022,38,Celta Vigo,13
+2022,38,Cadiz,14
+2022,38,Getafe,15
+2022,38,Valencia,16
+2022,38,Almeria,17
+2022,38,Valladolid,18
+2022,38,Espanyol,19
+2022,38,Elche,20
