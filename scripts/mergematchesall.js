@@ -77,3 +77,5 @@ function mergeMatchesAll() {
 
   Logger.log(`🎯 MatchesAll נוצר עם ${combined.length} שורות`);
 }
+Logger.log(`🎯 MatchesAll נוצר עם ${combined.length} שורות`);
+}
