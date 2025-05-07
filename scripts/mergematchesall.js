@@ -61,7 +61,7 @@ function mergeMatchesAll() {
   });
 
   // כתיבה לגיליון MatchesAll
-  const outSheet = ss.getSheetByName("MatchesAll") || ss.insertSheet("MatchesAll");
+  const outSheet = ss.getSheetByName("MatchesAll_ESP-") || ss.insertSheet("MatchesAll_ESP");
   outSheet.clearContents();
 
   const finalHeaders = [
@@ -73,10 +73,6 @@ function mergeMatchesAll() {
 
   if (combined.length > 0) {
     outSheet.getRange(2, 1, combined.length, finalHeaders.length).setValues(combined);
-  }
-
-  Logger.log(`🎯 MatchesAll נוצר עם ${combined.length} שורות`);
-}
   }
 
   Logger.log(`🎯 MatchesAll נוצר עם ${combined.length} שורות`);
