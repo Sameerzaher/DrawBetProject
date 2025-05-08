@@ -1,0 +1,761 @@
+﻿Season,Matchday,Team,Points,Rank
+2017,1,Barcelona,3,1
+2017,1,Eibar,3,2
+2017,1,Leganes,3,3
+2017,1,Levante,3,4
+2017,1,Real Madrid,3,5
+2017,1,Real Sociedad,3,6
+2017,1,Valencia,3,7
+2017,1,Athletic Club,1,8
+2017,1,Atletico Madrid,1,9
+2017,1,Espanyol,1,10
+2017,1,Getafe,1,11
+2017,1,Girona,1,12
+2017,1,Sevilla,1,13
+2017,1,Alaves,0,14
+2017,1,Celta Vigo,0,15
+2017,1,Deportivo La Coruna,0,16
+2017,1,Las Palmas,0,17
+2017,1,Malaga,0,18
+2017,1,Real Betis,0,19
+2017,1,Villarreal,0,20
+2017,2,Barcelona,6,1
+2017,2,Leganes,6,2
+2017,2,Real Sociedad,6,3
+2017,2,Athletic Club,4,4
+2017,2,Atletico Madrid,4,5
+2017,2,Girona,4,6
+2017,2,Levante,4,7
+2017,2,Real Madrid,4,8
+2017,2,Sevilla,4,9
+2017,2,Valencia,4,10
+2017,2,Eibar,3,11
+2017,2,Real Betis,3,12
+2017,2,Deportivo La Coruna,1,13
+2017,2,Espanyol,1,14
+2017,2,Getafe,1,15
+2017,2,Alaves,0,16
+2017,2,Celta Vigo,0,17
+2017,2,Las Palmas,0,18
+2017,2,Malaga,0,19
+2017,2,Villarreal,0,20
+2017,3,Barcelona,9,1
+2017,3,Real Sociedad,9,2
+2017,3,Athletic Club,7,3
+2017,3,Sevilla,7,4
+2017,3,Leganes,6,5
+2017,3,Atletico Madrid,5,6
+2017,3,Levante,5,7
+2017,3,Real Madrid,5,8
+2017,3,Valencia,5,9
+2017,3,Getafe,4,10
+2017,3,Girona,4,11
+2017,3,Celta Vigo,3,12
+2017,3,Eibar,3,13
+2017,3,Las Palmas,3,14
+2017,3,Real Betis,3,15
+2017,3,Villarreal,3,16
+2017,3,Deportivo La Coruna,1,17
+2017,3,Espanyol,1,18
+2017,3,Alaves,0,19
+2017,3,Malaga,0,20
+2017,4,Barcelona,12,1
+2017,4,Sevilla,10,2
+2017,4,Real Sociedad,9,3
+2017,4,Atletico Madrid,8,4
+2017,4,Real Madrid,8,5
+2017,4,Athletic Club,7,6
+2017,4,Eibar,6,7
+2017,4,Las Palmas,6,8
+2017,4,Leganes,6,9
+2017,4,Levante,6,10
+2017,4,Real Betis,6,11
+2017,4,Valencia,6,12
+2017,4,Villarreal,6,13
+2017,4,Espanyol,4,14
+2017,4,Getafe,4,15
+2017,4,Girona,4,16
+2017,4,Celta Vigo,3,17
+2017,4,Deportivo La Coruna,1,18
+2017,4,Alaves,0,19
+2017,4,Malaga,0,20
+2017,5,Barcelona,15,1
+2017,5,Sevilla,13,2
+2017,5,Atletico Madrid,11,3
+2017,5,Levante,9,4
+2017,5,Real Betis,9,5
+2017,5,Real Sociedad,9,6
+2017,5,Valencia,9,7
+2017,5,Real Madrid,8,8
+2017,5,Athletic Club,7,9
+2017,5,Leganes,7,10
+2017,5,Villarreal,7,11
+2017,5,Eibar,6,12
+2017,5,Las Palmas,6,13
+2017,5,Espanyol,5,14
+2017,5,Getafe,5,15
+2017,5,Girona,5,16
+2017,5,Celta Vigo,4,17
+2017,5,Deportivo La Coruna,4,18
+2017,5,Alaves,0,19
+2017,5,Malaga,0,20
+2017,6,Barcelona,18,1
+2017,6,Atletico Madrid,14,2
+2017,6,Sevilla,13,3
+2017,6,Real Betis,12,4
+2017,6,Valencia,12,5
+2017,6,Real Madrid,11,6
+2017,6,Leganes,10,7
+2017,6,Levante,9,8
+2017,6,Real Sociedad,9,9
+2017,6,Athletic Club,8,10
+2017,6,Espanyol,8,11
+2017,6,Getafe,8,12
+2017,6,Celta Vigo,7,13
+2017,6,Villarreal,7,14
+2017,6,Eibar,6,15
+2017,6,Las Palmas,6,16
+2017,6,Girona,5,17
+2017,6,Deportivo La Coruna,4,18
+2017,6,Malaga,1,19
+2017,6,Alaves,0,20
+2017,7,Barcelona,21,1
+2017,7,Sevilla,16,2
+2017,7,Atletico Madrid,15,3
+2017,7,Valencia,15,4
+2017,7,Real Madrid,14,5
+2017,7,Real Betis,13,6
+2017,7,Leganes,11,7
+2017,7,Real Sociedad,10,8
+2017,7,Villarreal,10,9
+2017,7,Levante,9,10
+2017,7,Athletic Club,8,11
+2017,7,Celta Vigo,8,12
+2017,7,Espanyol,8,13
+2017,7,Getafe,8,14
+2017,7,Deportivo La Coruna,7,15
+2017,7,Eibar,6,16
+2017,7,Girona,6,17
+2017,7,Las Palmas,6,18
+2017,7,Alaves,3,19
+2017,7,Malaga,1,20
+2017,8,Barcelona,22,1
+2017,8,Valencia,18,2
+2017,8,Real Madrid,17,3
+2017,8,Atletico Madrid,16,4
+2017,8,Sevilla,16,5
+2017,8,Leganes,14,6
+2017,8,Real Betis,13,7
+2017,8,Real Sociedad,13,8
+2017,8,Villarreal,13,9
+2017,8,Athletic Club,11,10
+2017,8,Celta Vigo,11,11
+2017,8,Levante,10,12
+2017,8,Espanyol,9,13
+2017,8,Deportivo La Coruna,8,14
+2017,8,Getafe,8,15
+2017,8,Eibar,7,16
+2017,8,Girona,6,17
+2017,8,Las Palmas,6,18
+2017,8,Alaves,3,19
+2017,8,Malaga,1,20
+2017,9,Barcelona,25,1
+2017,9,Valencia,21,2
+2017,9,Real Madrid,20,3
+2017,9,Atletico Madrid,19,4
+2017,9,Leganes,17,5
+2017,9,Real Betis,16,6
+2017,9,Sevilla,16,7
+2017,9,Villarreal,16,8
+2017,9,Real Sociedad,14,9
+2017,9,Athletic Club,11,10
+2017,9,Celta Vigo,11,11
+2017,9,Levante,11,12
+2017,9,Espanyol,10,13
+2017,9,Getafe,9,14
+2017,9,Girona,9,15
+2017,9,Deportivo La Coruna,8,16
+2017,9,Eibar,7,17
+2017,9,Las Palmas,6,18
+2017,9,Alaves,3,19
+2017,9,Malaga,1,20
+2017,10,Barcelona,28,1
+2017,10,Valencia,24,2
+2017,10,Atletico Madrid,20,3
+2017,10,Real Madrid,20,4
+2017,10,Sevilla,19,5
+2017,10,Leganes,17,6
+2017,10,Villarreal,17,7
+2017,10,Real Betis,16,8
+2017,10,Real Sociedad,14,9
+2017,10,Espanyol,13,10
+2017,10,Getafe,12,11
+2017,10,Girona,12,12
+2017,10,Levante,12,13
+2017,10,Athletic Club,11,14
+2017,10,Celta Vigo,11,15
+2017,10,Deportivo La Coruna,11,16
+2017,10,Eibar,8,17
+2017,10,Las Palmas,6,18
+2017,10,Malaga,4,19
+2017,10,Alaves,3,20
+2017,11,Barcelona,31,1
+2017,11,Valencia,27,2
+2017,11,Atletico Madrid,23,3
+2017,11,Real Madrid,23,4
+2017,11,Villarreal,20,5
+2017,11,Sevilla,19,6
+2017,11,Leganes,17,7
+2017,11,Real Betis,17,8
+2017,11,Real Sociedad,17,9
+2017,11,Girona,15,10
+2017,11,Celta Vigo,14,11
+2017,11,Espanyol,13,12
+2017,11,Getafe,13,13
+2017,11,Levante,12,14
+2017,11,Athletic Club,11,15
+2017,11,Deportivo La Coruna,11,16
+2017,11,Eibar,8,17
+2017,11,Alaves,6,18
+2017,11,Las Palmas,6,19
+2017,11,Malaga,4,20
+2017,12,Barcelona,34,1
+2017,12,Valencia,30,2
+2017,12,Atletico Madrid,24,3
+2017,12,Real Madrid,24,4
+2017,12,Sevilla,22,5
+2017,12,Villarreal,21,6
+2017,12,Real Sociedad,18,7
+2017,12,Leganes,17,8
+2017,12,Real Betis,17,9
+2017,12,Getafe,16,10
+2017,12,Girona,16,11
+2017,12,Levante,15,12
+2017,12,Celta Vigo,14,13
+2017,12,Espanyol,13,14
+2017,12,Athletic Club,12,15
+2017,12,Deportivo La Coruna,11,16
+2017,12,Eibar,11,17
+2017,12,Malaga,7,18
+2017,12,Alaves,6,19
+2017,12,Las Palmas,6,20
+2017,13,Barcelona,35,1
+2017,13,Valencia,31,2
+2017,13,Atletico Madrid,27,3
+2017,13,Real Madrid,27,4
+2017,13,Sevilla,25,5
+2017,13,Villarreal,21,6
+2017,13,Real Sociedad,19,7
+2017,13,Real Betis,18,8
+2017,13,Celta Vigo,17,9
+2017,13,Girona,17,10
+2017,13,Leganes,17,11
+2017,13,Espanyol,16,12
+2017,13,Getafe,16,13
+2017,13,Levante,15,14
+2017,13,Eibar,14,15
+2017,13,Athletic Club,13,16
+2017,13,Deportivo La Coruna,12,17
+2017,13,Las Palmas,7,18
+2017,13,Malaga,7,19
+2017,13,Alaves,6,20
+2017,14,Barcelona,36,1
+2017,14,Valencia,31,2
+2017,14,Atletico Madrid,30,3
+2017,14,Real Madrid,28,4
+2017,14,Sevilla,28,5
+2017,14,Villarreal,21,6
+2017,14,Leganes,20,7
+2017,14,Getafe,19,8
+2017,14,Real Sociedad,19,9
+2017,14,Celta Vigo,18,10
+2017,14,Real Betis,18,11
+2017,14,Eibar,17,12
+2017,14,Girona,17,13
+2017,14,Espanyol,16,14
+2017,14,Levante,16,15
+2017,14,Athletic Club,14,16
+2017,14,Deportivo La Coruna,12,17
+2017,14,Las Palmas,10,18
+2017,14,Alaves,9,19
+2017,14,Malaga,8,20
+2017,15,Barcelona,39,1
+2017,15,Valencia,34,2
+2017,15,Atletico Madrid,33,3
+2017,15,Real Madrid,31,4
+2017,15,Sevilla,28,5
+2017,15,Villarreal,21,6
+2017,15,Getafe,20,7
+2017,15,Girona,20,8
+2017,15,Leganes,20,9
+2017,15,Real Sociedad,19,10
+2017,15,Celta Vigo,18,11
+2017,15,Eibar,18,12
+2017,15,Real Betis,18,13
+2017,15,Athletic Club,17,14
+2017,15,Espanyol,16,15
+2017,15,Levante,16,16
+2017,15,Deportivo La Coruna,15,17
+2017,15,Alaves,12,18
+2017,15,Malaga,11,19
+2017,15,Las Palmas,10,20
+2017,16,Barcelona,42,1
+2017,16,Atletico Madrid,36,2
+2017,16,Real Madrid,34,3
+2017,16,Valencia,34,4
+2017,16,Sevilla,29,5
+2017,16,Villarreal,24,6
+2017,16,Girona,23,7
+2017,16,Eibar,21,8
+2017,16,Real Betis,21,9
+2017,16,Getafe,20,10
+2017,16,Leganes,20,11
+2017,16,Real Sociedad,20,12
+2017,16,Athletic Club,18,13
+2017,16,Celta Vigo,18,14
+2017,16,Espanyol,17,15
+2017,16,Levante,17,16
+2017,16,Deportivo La Coruna,15,17
+2017,16,Alaves,12,18
+2017,16,Las Palmas,11,19
+2017,16,Malaga,11,20
+2017,17,Barcelona,45,1
+2017,17,Atletico Madrid,36,2
+2017,17,Real Madrid,34,3
+2017,17,Valencia,34,4
+2017,17,Sevilla,29,5
+2017,17,Villarreal,27,6
+2017,17,Eibar,24,7
+2017,17,Getafe,23,8
+2017,17,Girona,23,9
+2017,17,Real Sociedad,23,10
+2017,17,Athletic Club,21,11
+2017,17,Celta Vigo,21,12
+2017,17,Leganes,21,13
+2017,17,Real Betis,21,14
+2017,17,Espanyol,20,15
+2017,17,Levante,18,16
+2017,17,Alaves,15,17
+2017,17,Deportivo La Coruna,15,18
+2017,17,Las Palmas,11,19
+2017,17,Malaga,11,20
+2017,18,Barcelona,48,1
+2017,18,Atletico Madrid,39,2
+2017,18,Valencia,37,3
+2017,18,Real Madrid,35,4
+2017,18,Sevilla,29,5
+2017,18,Villarreal,28,6
+2017,18,Eibar,27,7
+2017,18,Athletic Club,24,8
+2017,18,Leganes,24,9
+2017,18,Real Betis,24,10
+2017,18,Espanyol,23,11
+2017,18,Getafe,23,12
+2017,18,Girona,23,13
+2017,18,Real Sociedad,23,14
+2017,18,Celta Vigo,22,15
+2017,18,Levante,18,16
+2017,18,Deportivo La Coruna,16,17
+2017,18,Alaves,15,18
+2017,18,Las Palmas,11,19
+2017,18,Malaga,11,20
+2017,19,Barcelona,51,1
+2017,19,Atletico Madrid,42,2
+2017,19,Valencia,40,3
+2017,19,Real Madrid,35,4
+2017,19,Villarreal,31,5
+2017,19,Sevilla,29,6
+2017,19,Eibar,27,7
+2017,19,Real Betis,27,8
+2017,19,Getafe,26,9
+2017,19,Girona,26,10
+2017,19,Athletic Club,25,11
+2017,19,Celta Vigo,25,12
+2017,19,Espanyol,24,13
+2017,19,Leganes,24,14
+2017,19,Real Sociedad,23,15
+2017,19,Alaves,18,16
+2017,19,Levante,18,17
+2017,19,Deportivo La Coruna,16,18
+2017,19,Las Palmas,11,19
+2017,19,Malaga,11,20
+2017,20,Barcelona,54,1
+2017,20,Atletico Madrid,43,2
+2017,20,Valencia,40,3
+2017,20,Real Madrid,38,4
+2017,20,Villarreal,34,5
+2017,20,Sevilla,32,6
+2017,20,Celta Vigo,28,7
+2017,20,Eibar,28,8
+2017,20,Getafe,27,9
+2017,20,Girona,27,10
+2017,20,Real Betis,27,11
+2017,20,Athletic Club,26,12
+2017,20,Leganes,25,13
+2017,20,Espanyol,24,14
+2017,20,Real Sociedad,23,15
+2017,20,Alaves,19,16
+2017,20,Levante,18,17
+2017,20,Deportivo La Coruna,16,18
+2017,20,Las Palmas,14,19
+2017,20,Malaga,12,20
+2017,21,Barcelona,57,1
+2017,21,Atletico Madrid,46,2
+2017,21,Real Madrid,41,3
+2017,21,Valencia,40,4
+2017,21,Villarreal,37,5
+2017,21,Sevilla,33,6
+2017,21,Celta Vigo,31,7
+2017,21,Eibar,29,8
+2017,21,Getafe,28,9
+2017,21,Girona,28,10
+2017,21,Leganes,28,11
+2017,21,Athletic Club,27,12
+2017,21,Real Betis,27,13
+2017,21,Espanyol,24,14
+2017,21,Real Sociedad,23,15
+2017,21,Alaves,19,16
+2017,21,Levante,19,17
+2017,21,Deportivo La Coruna,17,18
+2017,21,Las Palmas,14,19
+2017,21,Malaga,13,20
+2017,22,Barcelona,58,1
+2017,22,Atletico Madrid,49,2
+2017,22,Real Madrid,42,3
+2017,22,Valencia,40,4
+2017,22,Villarreal,37,5
+2017,22,Sevilla,33,6
+2017,22,Eibar,32,7
+2017,22,Celta Vigo,31,8
+2017,22,Girona,31,9
+2017,22,Real Betis,30,10
+2017,22,Getafe,29,11
+2017,22,Leganes,29,12
+2017,22,Athletic Club,27,13
+2017,22,Real Sociedad,26,14
+2017,22,Espanyol,25,15
+2017,22,Alaves,22,16
+2017,22,Levante,20,17
+2017,22,Deportivo La Coruna,17,18
+2017,22,Las Palmas,17,19
+2017,22,Malaga,13,20
+2017,23,Barcelona,59,1
+2017,23,Atletico Madrid,52,2
+2017,23,Real Madrid,45,3
+2017,23,Valencia,43,4
+2017,23,Villarreal,37,5
+2017,23,Sevilla,36,6
+2017,23,Eibar,35,7
+2017,23,Real Betis,33,8
+2017,23,Celta Vigo,32,9
+2017,23,Girona,31,10
+2017,23,Getafe,30,11
+2017,23,Leganes,29,12
+2017,23,Athletic Club,28,13
+2017,23,Espanyol,26,14
+2017,23,Real Sociedad,26,15
+2017,23,Alaves,25,16
+2017,23,Levante,20,17
+2017,23,Las Palmas,18,18
+2017,23,Deportivo La Coruna,17,19
+2017,23,Malaga,13,20
+2017,24,Barcelona,62,1
+2017,24,Atletico Madrid,55,2
+2017,24,Real Madrid,48,3
+2017,24,Valencia,46,4
+2017,24,Sevilla,39,5
+2017,24,Villarreal,38,6
+2017,24,Eibar,35,7
+2017,24,Girona,34,8
+2017,24,Getafe,33,9
+2017,24,Real Betis,33,10
+2017,24,Celta Vigo,32,11
+2017,24,Leganes,29,12
+2017,24,Real Sociedad,29,13
+2017,24,Alaves,28,14
+2017,24,Athletic Club,28,15
+2017,24,Espanyol,27,16
+2017,24,Levante,20,17
+2017,24,Las Palmas,18,18
+2017,24,Deportivo La Coruna,17,19
+2017,24,Malaga,13,20
+2017,25,Barcelona,65,1
+2017,25,Atletico Madrid,58,2
+2017,25,Real Madrid,51,3
+2017,25,Valencia,49,4
+2017,25,Villarreal,41,5
+2017,25,Sevilla,39,6
+2017,25,Real Betis,36,7
+2017,25,Celta Vigo,35,8
+2017,25,Eibar,35,9
+2017,25,Girona,34,10
+2017,25,Getafe,33,11
+2017,25,Athletic Club,31,12
+2017,25,Leganes,30,13
+2017,25,Real Sociedad,29,14
+2017,25,Alaves,28,15
+2017,25,Espanyol,28,16
+2017,25,Levante,20,17
+2017,25,Las Palmas,19,18
+2017,25,Deportivo La Coruna,18,19
+2017,25,Malaga,13,20
+2017,26,Barcelona,66,1
+2017,26,Atletico Madrid,61,2
+2017,26,Real Madrid,51,3
+2017,26,Valencia,50,4
+2017,26,Sevilla,42,5
+2017,26,Villarreal,41,6
+2017,26,Eibar,38,7
+2017,26,Girona,37,8
+2017,26,Real Betis,37,9
+2017,26,Getafe,36,10
+2017,26,Celta Vigo,35,11
+2017,26,Athletic Club,32,12
+2017,26,Alaves,31,13
+2017,26,Espanyol,31,14
+2017,26,Leganes,30,15
+2017,26,Real Sociedad,30,16
+2017,26,Las Palmas,20,17
+2017,26,Levante,20,18
+2017,26,Deportivo La Coruna,18,19
+2017,26,Malaga,13,20
+2017,27,Barcelona,69,1
+2017,27,Atletico Madrid,61,2
+2017,27,Real Madrid,54,3
+2017,27,Valencia,53,4
+2017,27,Sevilla,45,5
+2017,27,Villarreal,41,6
+2017,27,Girona,40,7
+2017,27,Eibar,39,8
+2017,27,Celta Vigo,38,9
+2017,27,Real Betis,37,10
+2017,27,Getafe,36,11
+2017,27,Leganes,33,12
+2017,27,Real Sociedad,33,13
+2017,27,Athletic Club,32,14
+2017,27,Espanyol,32,15
+2017,27,Alaves,31,16
+2017,27,Levante,21,17
+2017,27,Las Palmas,20,18
+2017,27,Deportivo La Coruna,19,19
+2017,27,Malaga,13,20
+2017,28,Barcelona,72,1
+2017,28,Atletico Madrid,64,2
+2017,28,Real Madrid,57,3
+2017,28,Valencia,56,4
+2017,28,Sevilla,45,5
+2017,28,Villarreal,44,6
+2017,28,Girona,43,7
+2017,28,Real Betis,40,8
+2017,28,Eibar,39,9
+2017,28,Celta Vigo,38,10
+2017,28,Getafe,36,11
+2017,28,Athletic Club,35,12
+2017,28,Espanyol,35,13
+2017,28,Leganes,33,14
+2017,28,Real Sociedad,33,15
+2017,28,Alaves,31,16
+2017,28,Levante,24,17
+2017,28,Las Palmas,20,18
+2017,28,Deportivo La Coruna,19,19
+2017,28,Malaga,13,20
+2017,29,Barcelona,75,1
+2017,29,Atletico Madrid,64,2
+2017,29,Real Madrid,60,3
+2017,29,Valencia,59,4
+2017,29,Villarreal,47,5
+2017,29,Sevilla,45,6
+2017,29,Girona,43,7
+2017,29,Real Betis,43,8
+2017,29,Celta Vigo,39,9
+2017,29,Eibar,39,10
+2017,29,Getafe,39,11
+2017,29,Leganes,36,12
+2017,29,Athletic Club,35,13
+2017,29,Espanyol,35,14
+2017,29,Real Sociedad,33,15
+2017,29,Alaves,31,16
+2017,29,Levante,27,17
+2017,29,Las Palmas,21,18
+2017,29,Deportivo La Coruna,20,19
+2017,29,Malaga,14,20
+2017,30,Barcelona,76,1
+2017,30,Atletico Madrid,67,2
+2017,30,Real Madrid,63,3
+2017,30,Valencia,62,4
+2017,30,Villarreal,47,5
+2017,30,Real Betis,46,6
+2017,30,Sevilla,46,7
+2017,30,Girona,44,8
+2017,30,Celta Vigo,40,9
+2017,30,Eibar,40,10
+2017,30,Getafe,39,11
+2017,30,Athletic Club,36,12
+2017,30,Espanyol,36,13
+2017,30,Leganes,36,14
+2017,30,Real Sociedad,34,15
+2017,30,Alaves,32,16
+2017,30,Levante,28,17
+2017,30,Las Palmas,21,18
+2017,30,Deportivo La Coruna,20,19
+2017,30,Malaga,17,20
+2017,31,Barcelona,79,1
+2017,31,Atletico Madrid,68,2
+2017,31,Valencia,65,3
+2017,31,Real Madrid,64,4
+2017,31,Real Betis,49,5
+2017,31,Villarreal,47,6
+2017,31,Sevilla,46,7
+2017,31,Girona,44,8
+2017,31,Celta Vigo,43,9
+2017,31,Eibar,40,10
+2017,31,Athletic Club,39,11
+2017,31,Getafe,39,12
+2017,31,Real Sociedad,37,13
+2017,31,Espanyol,36,14
+2017,31,Leganes,36,15
+2017,31,Alaves,35,16
+2017,31,Levante,31,17
+2017,31,Deportivo La Coruna,23,18
+2017,31,Las Palmas,21,19
+2017,31,Malaga,17,20
+2017,32,Barcelona,82,1
+2017,32,Atletico Madrid,71,2
+2017,32,Real Madrid,67,3
+2017,32,Valencia,65,4
+2017,32,Real Betis,52,5
+2017,32,Villarreal,48,6
+2017,32,Sevilla,47,7
+2017,32,Girona,44,8
+2017,32,Celta Vigo,43,9
+2017,32,Getafe,42,10
+2017,32,Eibar,40,11
+2017,32,Real Sociedad,40,12
+2017,32,Athletic Club,39,13
+2017,32,Leganes,39,14
+2017,32,Alaves,38,15
+2017,32,Espanyol,36,16
+2017,32,Levante,31,17
+2017,32,Deportivo La Coruna,26,18
+2017,32,Las Palmas,21,19
+2017,32,Malaga,17,20
+2017,33,Barcelona,83,1
+2017,33,Atletico Madrid,71,2
+2017,33,Real Madrid,68,3
+2017,33,Valencia,65,4
+2017,33,Real Betis,55,5
+2017,33,Villarreal,51,6
+2017,33,Sevilla,48,7
+2017,33,Girona,47,8
+2017,33,Getafe,45,9
+2017,33,Celta Vigo,44,10
+2017,33,Eibar,43,11
+2017,33,Real Sociedad,43,12
+2017,33,Athletic Club,40,13
+2017,33,Leganes,39,14
+2017,33,Alaves,38,15
+2017,33,Espanyol,36,16
+2017,33,Levante,34,17
+2017,33,Deportivo La Coruna,27,18
+2017,33,Las Palmas,21,19
+2017,33,Malaga,17,20
+2017,34,Barcelona,86,1
+2017,34,Atletico Madrid,72,2
+2017,34,Real Madrid,68,3
+2017,34,Valencia,66,4
+2017,34,Real Betis,56,5
+2017,34,Sevilla,51,6
+2017,34,Villarreal,51,7
+2017,34,Getafe,48,8
+2017,34,Girona,47,9
+2017,34,Celta Vigo,45,10
+2017,34,Eibar,43,11
+2017,34,Real Sociedad,43,12
+2017,34,Alaves,41,13
+2017,34,Athletic Club,40,14
+2017,34,Leganes,40,15
+2017,34,Espanyol,39,16
+2017,34,Levante,37,17
+2017,34,Deportivo La Coruna,28,18
+2017,34,Las Palmas,21,19
+2017,34,Malaga,20,20
+2017,35,Barcelona,89,1
+2017,35,Atletico Madrid,75,2
+2017,35,Real Madrid,71,3
+2017,35,Valencia,67,4
+2017,35,Real Betis,59,5
+2017,35,Villarreal,54,6
+2017,35,Sevilla,51,7
+2017,35,Getafe,49,8
+2017,35,Girona,48,9
+2017,35,Real Sociedad,46,10
+2017,35,Celta Vigo,45,11
+2017,35,Eibar,44,12
+2017,35,Alaves,41,13
+2017,35,Athletic Club,40,14
+2017,35,Espanyol,40,15
+2017,35,Leganes,40,16
+2017,35,Levante,40,17
+2017,35,Deportivo La Coruna,28,18
+2017,35,Las Palmas,22,19
+2017,35,Malaga,20,20
+2017,36,Barcelona,90,1
+2017,36,Atletico Madrid,75,2
+2017,36,Real Madrid,72,3
+2017,36,Valencia,67,4
+2017,36,Real Betis,59,5
+2017,36,Villarreal,57,6
+2017,36,Sevilla,54,7
+2017,36,Getafe,52,8
+2017,36,Girona,48,9
+2017,36,Eibar,47,10
+2017,36,Celta Vigo,46,11
+2017,36,Real Sociedad,46,12
+2017,36,Alaves,44,13
+2017,36,Athletic Club,43,14
+2017,36,Espanyol,43,15
+2017,36,Levante,43,16
+2017,36,Leganes,40,17
+2017,36,Deportivo La Coruna,29,18
+2017,36,Las Palmas,22,19
+2017,36,Malaga,20,20
+2017,37,Barcelona,90,1
+2017,37,Atletico Madrid,78,2
+2017,37,Real Madrid,75,3
+2017,37,Valencia,70,4
+2017,37,Real Betis,60,5
+2017,37,Villarreal,60,6
+2017,37,Sevilla,55,7
+2017,37,Getafe,52,8
+2017,37,Eibar,50,9
+2017,37,Real Sociedad,49,10
+2017,37,Girona,48,11
+2017,37,Alaves,47,12
+2017,37,Celta Vigo,46,13
+2017,37,Espanyol,46,14
+2017,37,Levante,46,15
+2017,37,Athletic Club,43,16
+2017,37,Leganes,40,17
+2017,37,Deportivo La Coruna,29,18
+2017,37,Las Palmas,22,19
+2017,37,Malaga,20,20
+2017,38,Barcelona,93,1
+2017,38,Atletico Madrid,79,2
+2017,38,Real Madrid,76,3
+2017,38,Valencia,73,4
+2017,38,Villarreal,61,5
+2017,38,Real Betis,60,6
+2017,38,Sevilla,58,7
+2017,38,Getafe,55,8
+2017,38,Eibar,51,9
+2017,38,Girona,51,10
+2017,38,Celta Vigo,49,11
+2017,38,Espanyol,49,12
+2017,38,Real Sociedad,49,13
+2017,38,Alaves,47,14
+2017,38,Levante,46,15
+2017,38,Athletic Club,43,16
+2017,38,Leganes,43,17
+2017,38,Deportivo La Coruna,29,18
+2017,38,Las Palmas,22,19
+2017,38,Malaga,20,20

@@ -1,0 +1,761 @@
+﻿Season,Matchday,Team,Points,Rank
+2020,1,Atletico Madrid,3,1
+2020,1,Barcelona,3,2
+2020,1,Granada CF,3,3
+2020,1,Osasuna,3,4
+2020,1,Real Betis,3,5
+2020,1,Real Madrid,3,6
+2020,1,Valencia,3,7
+2020,1,Celta Vigo,1,8
+2020,1,Eibar,1,9
+2020,1,Huesca,1,10
+2020,1,Real Sociedad,1,11
+2020,1,Valladolid,1,12
+2020,1,Villarreal,1,13
+2020,1,Alaves,0,14
+2020,1,Athletic Club,0,15
+2020,1,Cadiz,0,16
+2020,1,Elche,0,17
+2020,1,Getafe,0,18
+2020,1,Levante,0,19
+2020,1,Sevilla,0,20
+2020,2,Barcelona,6,1
+2020,2,Granada CF,6,2
+2020,2,Real Betis,6,3
+2020,2,Atletico Madrid,4,4
+2020,2,Celta Vigo,4,5
+2020,2,Real Madrid,4,6
+2020,2,Villarreal,4,7
+2020,2,Cadiz,3,8
+2020,2,Getafe,3,9
+2020,2,Osasuna,3,10
+2020,2,Sevilla,3,11
+2020,2,Valencia,3,12
+2020,2,Real Sociedad,2,13
+2020,2,Eibar,1,14
+2020,2,Huesca,1,15
+2020,2,Levante,1,16
+2020,2,Valladolid,1,17
+2020,2,Alaves,0,18
+2020,2,Athletic Club,0,19
+2020,2,Elche,0,20
+2020,3,Barcelona,9,1
+2020,3,Atletico Madrid,7,2
+2020,3,Real Madrid,7,3
+2020,3,Granada CF,6,4
+2020,3,Real Betis,6,5
+2020,3,Sevilla,6,6
+2020,3,Celta Vigo,5,7
+2020,3,Real Sociedad,5,8
+2020,3,Getafe,4,9
+2020,3,Levante,4,10
+2020,3,Valencia,4,11
+2020,3,Villarreal,4,12
+2020,3,Athletic Club,3,13
+2020,3,Cadiz,3,14
+2020,3,Osasuna,3,15
+2020,3,Huesca,2,16
+2020,3,Valladolid,2,17
+2020,3,Alaves,1,18
+2020,3,Eibar,1,19
+2020,3,Elche,0,20
+2020,4,Barcelona,12,1
+2020,4,Real Madrid,10,2
+2020,4,Granada CF,9,3
+2020,4,Sevilla,9,4
+2020,4,Atletico Madrid,8,5
+2020,4,Getafe,7,6
+2020,4,Valencia,7,7
+2020,4,Villarreal,7,8
+2020,4,Cadiz,6,9
+2020,4,Real Betis,6,10
+2020,4,Celta Vigo,5,11
+2020,4,Real Sociedad,5,12
+2020,4,Levante,4,13
+2020,4,Athletic Club,3,14
+2020,4,Elche,3,15
+2020,4,Huesca,3,16
+2020,4,Osasuna,3,17
+2020,4,Valladolid,2,18
+2020,4,Alaves,1,19
+2020,4,Eibar,1,20
+2020,5,Barcelona,13,1
+2020,5,Real Madrid,13,2
+2020,5,Granada CF,10,3
+2020,5,Sevilla,10,4
+2020,5,Atletico Madrid,9,5
+2020,5,Real Betis,9,6
+2020,5,Real Sociedad,8,7
+2020,5,Villarreal,8,8
+2020,5,Cadiz,7,9
+2020,5,Getafe,7,10
+2020,5,Valencia,7,11
+2020,5,Osasuna,6,12
+2020,5,Celta Vigo,5,13
+2020,5,Alaves,4,14
+2020,5,Eibar,4,15
+2020,5,Elche,4,16
+2020,5,Huesca,4,17
+2020,5,Levante,4,18
+2020,5,Athletic Club,3,19
+2020,5,Valladolid,2,20
+2020,6,Barcelona,13,1
+2020,6,Granada CF,13,2
+2020,6,Real Madrid,13,3
+2020,6,Atletico Madrid,12,4
+2020,6,Real Sociedad,11,5
+2020,6,Villarreal,11,6
+2020,6,Cadiz,10,7
+2020,6,Getafe,10,8
+2020,6,Sevilla,10,9
+2020,6,Real Betis,9,10
+2020,6,Elche,7,11
+2020,6,Osasuna,7,12
+2020,6,Valencia,7,13
+2020,6,Athletic Club,6,14
+2020,6,Celta Vigo,5,15
+2020,6,Eibar,5,16
+2020,6,Huesca,5,17
+2020,6,Alaves,4,18
+2020,6,Levante,4,19
+2020,6,Valladolid,3,20
+2020,7,Granada CF,16,1
+2020,7,Real Madrid,16,2
+2020,7,Atletico Madrid,15,3
+2020,7,Real Sociedad,14,4
+2020,7,Barcelona,13,5
+2020,7,Villarreal,12,6
+2020,7,Cadiz,11,7
+2020,7,Elche,10,8
+2020,7,Getafe,10,9
+2020,7,Osasuna,10,10
+2020,7,Sevilla,10,11
+2020,7,Real Betis,9,12
+2020,7,Eibar,8,13
+2020,7,Alaves,7,14
+2020,7,Valencia,7,15
+2020,7,Athletic Club,6,16
+2020,7,Celta Vigo,6,17
+2020,7,Huesca,5,18
+2020,7,Levante,5,19
+2020,7,Valladolid,3,20
+2020,8,Real Madrid,19,1
+2020,8,Atletico Madrid,18,2
+2020,8,Granada CF,17,3
+2020,8,Real Sociedad,17,4
+2020,8,Villarreal,15,5
+2020,8,Barcelona,14,6
+2020,8,Cadiz,14,7
+2020,8,Real Betis,12,8
+2020,8,Getafe,11,9
+2020,8,Elche,10,10
+2020,8,Osasuna,10,11
+2020,8,Sevilla,10,12
+2020,8,Athletic Club,9,13
+2020,8,Alaves,8,14
+2020,8,Eibar,8,15
+2020,8,Valencia,8,16
+2020,8,Celta Vigo,6,17
+2020,8,Levante,6,18
+2020,8,Huesca,5,19
+2020,8,Valladolid,3,20
+2020,9,Atletico Madrid,21,1
+2020,9,Real Sociedad,20,2
+2020,9,Real Madrid,19,3
+2020,9,Villarreal,18,4
+2020,9,Barcelona,17,5
+2020,9,Granada CF,17,6
+2020,9,Cadiz,14,7
+2020,9,Sevilla,13,8
+2020,9,Real Betis,12,9
+2020,9,Elche,11,10
+2020,9,Getafe,11,11
+2020,9,Valencia,11,12
+2020,9,Osasuna,10,13
+2020,9,Alaves,9,14
+2020,9,Athletic Club,9,15
+2020,9,Eibar,9,16
+2020,9,Celta Vigo,7,17
+2020,9,Levante,7,18
+2020,9,Huesca,6,19
+2020,9,Valladolid,6,20
+2020,10,Atletico Madrid,24,1
+2020,10,Real Sociedad,23,2
+2020,10,Real Madrid,20,3
+2020,10,Villarreal,19,4
+2020,10,Barcelona,17,5
+2020,10,Granada CF,17,6
+2020,10,Sevilla,16,7
+2020,10,Cadiz,14,8
+2020,10,Athletic Club,12,9
+2020,10,Elche,12,10
+2020,10,Getafe,12,11
+2020,10,Real Betis,12,12
+2020,10,Valencia,12,13
+2020,10,Osasuna,11,14
+2020,10,Alaves,10,15
+2020,10,Eibar,10,16
+2020,10,Valladolid,9,17
+2020,10,Levante,8,18
+2020,10,Celta Vigo,7,19
+2020,10,Huesca,7,20
+2020,11,Atletico Madrid,27,1
+2020,11,Real Sociedad,24,2
+2020,11,Barcelona,20,3
+2020,11,Real Madrid,20,4
+2020,11,Villarreal,20,5
+2020,11,Sevilla,19,6
+2020,11,Granada CF,17,7
+2020,11,Cadiz,15,8
+2020,11,Alaves,13,9
+2020,11,Athletic Club,13,10
+2020,11,Eibar,13,11
+2020,11,Elche,13,12
+2020,11,Getafe,13,13
+2020,11,Real Betis,12,14
+2020,11,Valencia,12,15
+2020,11,Osasuna,11,16
+2020,11,Celta Vigo,10,17
+2020,11,Valladolid,10,18
+2020,11,Levante,9,19
+2020,11,Huesca,7,20
+2020,12,Atletico Madrid,30,1
+2020,12,Real Sociedad,25,2
+2020,12,Real Madrid,23,3
+2020,12,Villarreal,21,4
+2020,12,Barcelona,20,5
+2020,12,Sevilla,19,6
+2020,12,Cadiz,18,7
+2020,12,Granada CF,18,8
+2020,12,Real Betis,15,9
+2020,12,Alaves,14,10
+2020,12,Eibar,14,11
+2020,12,Elche,14,12
+2020,12,Athletic Club,13,13
+2020,12,Celta Vigo,13,14
+2020,12,Getafe,13,15
+2020,12,Valencia,13,16
+2020,12,Levante,12,17
+2020,12,Osasuna,11,18
+2020,12,Valladolid,10,19
+2020,12,Huesca,8,20
+2020,13,Atletico Madrid,30,1
+2020,13,Real Madrid,26,2
+2020,13,Real Sociedad,26,3
+2020,13,Barcelona,23,4
+2020,13,Sevilla,22,5
+2020,13,Villarreal,22,6
+2020,13,Granada CF,21,7
+2020,13,Cadiz,18,8
+2020,13,Celta Vigo,16,9
+2020,13,Real Betis,16,10
+2020,13,Eibar,15,11
+2020,13,Alaves,14,12
+2020,13,Athletic Club,14,13
+2020,13,Elche,14,14
+2020,13,Valencia,14,15
+2020,13,Getafe,13,16
+2020,13,Valladolid,13,17
+2020,13,Levante,12,18
+2020,13,Huesca,11,19
+2020,13,Osasuna,11,20
+2020,14,Atletico Madrid,33,1
+2020,14,Real Madrid,29,2
+2020,14,Real Sociedad,26,3
+2020,14,Villarreal,25,4
+2020,14,Barcelona,24,5
+2020,14,Granada CF,24,6
+2020,14,Sevilla,23,7
+2020,14,Celta Vigo,19,8
+2020,14,Cadiz,18,9
+2020,14,Athletic Club,17,10
+2020,14,Getafe,16,11
+2020,14,Real Betis,16,12
+2020,14,Eibar,15,13
+2020,14,Levante,15,14
+2020,14,Valencia,15,15
+2020,14,Alaves,14,16
+2020,14,Elche,14,17
+2020,14,Valladolid,14,18
+2020,14,Huesca,11,19
+2020,14,Osasuna,11,20
+2020,15,Atletico Madrid,36,1
+2020,15,Real Madrid,32,2
+2020,15,Barcelona,27,3
+2020,15,Real Sociedad,26,4
+2020,15,Sevilla,26,5
+2020,15,Villarreal,26,6
+2020,15,Granada CF,24,7
+2020,15,Celta Vigo,20,8
+2020,15,Real Betis,19,9
+2020,15,Athletic Club,18,10
+2020,15,Cadiz,18,11
+2020,15,Alaves,17,12
+2020,15,Getafe,17,13
+2020,15,Levante,16,14
+2020,15,Eibar,15,15
+2020,15,Elche,15,16
+2020,15,Valencia,15,17
+2020,15,Valladolid,14,18
+2020,15,Huesca,12,19
+2020,15,Osasuna,12,20
+2020,16,Atletico Madrid,39,1
+2020,16,Real Madrid,33,2
+2020,16,Real Sociedad,29,3
+2020,16,Sevilla,29,4
+2020,16,Barcelona,28,5
+2020,16,Granada CF,27,6
+2020,16,Villarreal,26,7
+2020,16,Celta Vigo,23,8
+2020,16,Cadiz,19,9
+2020,16,Levante,19,10
+2020,16,Real Betis,19,11
+2020,16,Alaves,18,12
+2020,16,Athletic Club,18,13
+2020,16,Getafe,17,14
+2020,16,Eibar,16,15
+2020,16,Elche,16,16
+2020,16,Valencia,15,17
+2020,16,Valladolid,15,18
+2020,16,Osasuna,13,19
+2020,16,Huesca,12,20
+2020,17,Atletico Madrid,42,1
+2020,17,Real Madrid,36,2
+2020,17,Barcelona,31,3
+2020,17,Real Sociedad,30,4
+2020,17,Sevilla,30,5
+2020,17,Villarreal,29,6
+2020,17,Granada CF,27,7
+2020,17,Celta Vigo,23,8
+2020,17,Athletic Club,21,9
+2020,17,Cadiz,20,10
+2020,17,Real Betis,20,11
+2020,17,Eibar,19,12
+2020,17,Levante,19,13
+2020,17,Alaves,18,14
+2020,17,Valladolid,18,15
+2020,17,Getafe,17,16
+2020,17,Elche,16,17
+2020,17,Valencia,16,18
+2020,17,Osasuna,14,19
+2020,17,Huesca,12,20
+2020,18,Atletico Madrid,45,1
+2020,18,Real Madrid,37,2
+2020,18,Barcelona,34,3
+2020,18,Sevilla,33,4
+2020,18,Villarreal,32,5
+2020,18,Real Sociedad,30,6
+2020,18,Granada CF,27,7
+2020,18,Cadiz,23,8
+2020,18,Celta Vigo,23,9
+2020,18,Real Betis,23,10
+2020,18,Levante,22,11
+2020,18,Athletic Club,21,12
+2020,18,Getafe,20,13
+2020,18,Eibar,19,14
+2020,18,Valencia,19,15
+2020,18,Alaves,18,16
+2020,18,Valladolid,18,17
+2020,18,Elche,16,18
+2020,18,Osasuna,15,19
+2020,18,Huesca,12,20
+2020,19,Atletico Madrid,48,1
+2020,19,Real Madrid,40,2
+2020,19,Barcelona,37,3
+2020,19,Sevilla,36,4
+2020,19,Villarreal,33,5
+2020,19,Real Sociedad,30,6
+2020,19,Granada CF,28,7
+2020,19,Real Betis,26,8
+2020,19,Cadiz,24,9
+2020,19,Celta Vigo,23,10
+2020,19,Getafe,23,11
+2020,19,Levante,23,12
+2020,19,Athletic Club,21,13
+2020,19,Valencia,20,14
+2020,19,Eibar,19,15
+2020,19,Valladolid,19,16
+2020,19,Alaves,18,17
+2020,19,Elche,17,18
+2020,19,Osasuna,16,19
+2020,19,Huesca,12,20
+2020,20,Atletico Madrid,51,1
+2020,20,Real Madrid,43,2
+2020,20,Barcelona,40,3
+2020,20,Sevilla,39,4
+2020,20,Villarreal,34,5
+2020,20,Real Sociedad,31,6
+2020,20,Granada CF,28,7
+2020,20,Real Betis,27,8
+2020,20,Athletic Club,24,9
+2020,20,Cadiz,24,10
+2020,20,Celta Vigo,24,11
+2020,20,Levante,24,12
+2020,20,Getafe,23,13
+2020,20,Eibar,20,14
+2020,20,Valencia,20,15
+2020,20,Valladolid,20,16
+2020,20,Osasuna,19,17
+2020,20,Alaves,18,18
+2020,20,Elche,17,19
+2020,20,Huesca,13,20
+2020,21,Atletico Madrid,54,1
+2020,21,Barcelona,43,2
+2020,21,Real Madrid,43,3
+2020,21,Sevilla,42,4
+2020,21,Villarreal,35,5
+2020,21,Real Sociedad,32,6
+2020,21,Real Betis,30,7
+2020,21,Granada CF,29,8
+2020,21,Levante,27,9
+2020,21,Celta Vigo,25,10
+2020,21,Athletic Club,24,11
+2020,21,Cadiz,24,12
+2020,21,Getafe,24,13
+2020,21,Valencia,23,14
+2020,21,Eibar,20,15
+2020,21,Valladolid,20,16
+2020,21,Alaves,19,17
+2020,21,Osasuna,19,18
+2020,21,Elche,17,19
+2020,21,Huesca,16,20
+2020,22,Atletico Madrid,55,1
+2020,22,Barcelona,46,2
+2020,22,Real Madrid,46,3
+2020,22,Sevilla,45,4
+2020,22,Villarreal,36,5
+2020,22,Real Sociedad,35,6
+2020,22,Granada CF,30,7
+2020,22,Real Betis,30,8
+2020,22,Levante,28,9
+2020,22,Celta Vigo,26,10
+2020,22,Athletic Club,25,11
+2020,22,Cadiz,24,12
+2020,22,Getafe,24,13
+2020,22,Valencia,24,14
+2020,22,Alaves,22,15
+2020,22,Osasuna,22,16
+2020,22,Eibar,20,17
+2020,22,Valladolid,20,18
+2020,22,Elche,18,19
+2020,22,Huesca,16,20
+2020,23,Atletico Madrid,58,1
+2020,23,Barcelona,49,2
+2020,23,Real Madrid,49,3
+2020,23,Sevilla,48,4
+2020,23,Real Sociedad,38,5
+2020,23,Villarreal,36,6
+2020,23,Real Betis,33,7
+2020,23,Granada CF,30,8
+2020,23,Celta Vigo,29,9
+2020,23,Athletic Club,28,10
+2020,23,Levante,28,11
+2020,23,Osasuna,25,12
+2020,23,Cadiz,24,13
+2020,23,Getafe,24,14
+2020,23,Valencia,24,15
+2020,23,Alaves,22,16
+2020,23,Eibar,21,17
+2020,23,Valladolid,21,18
+2020,23,Elche,18,19
+2020,23,Huesca,16,20
+2020,24,Atletico Madrid,58,1
+2020,24,Real Madrid,52,2
+2020,24,Sevilla,51,3
+2020,24,Barcelona,50,4
+2020,24,Real Sociedad,41,5
+2020,24,Villarreal,37,6
+2020,24,Real Betis,36,7
+2020,24,Levante,31,8
+2020,24,Granada CF,30,9
+2020,24,Athletic Club,29,10
+2020,24,Celta Vigo,29,11
+2020,24,Valencia,27,12
+2020,24,Cadiz,25,13
+2020,24,Osasuna,25,14
+2020,24,Getafe,24,15
+2020,24,Alaves,22,16
+2020,24,Eibar,21,17
+2020,24,Elche,21,18
+2020,24,Valladolid,21,19
+2020,24,Huesca,19,20
+2020,25,Atletico Madrid,61,1
+2020,25,Barcelona,53,2
+2020,25,Real Madrid,53,3
+2020,25,Sevilla,51,4
+2020,25,Real Sociedad,42,5
+2020,25,Real Betis,39,6
+2020,25,Villarreal,37,7
+2020,25,Granada CF,33,8
+2020,25,Levante,32,9
+2020,25,Athletic Club,30,10
+2020,25,Celta Vigo,30,11
+2020,25,Osasuna,28,12
+2020,25,Getafe,27,13
+2020,25,Valencia,27,14
+2020,25,Cadiz,25,15
+2020,25,Alaves,22,16
+2020,25,Eibar,22,17
+2020,25,Valladolid,22,18
+2020,25,Elche,21,19
+2020,25,Huesca,20,20
+2020,26,Atletico Madrid,62,1
+2020,26,Barcelona,56,2
+2020,26,Real Madrid,54,3
+2020,26,Sevilla,51,4
+2020,26,Real Sociedad,45,5
+2020,26,Real Betis,42,6
+2020,26,Villarreal,37,7
+2020,26,Athletic Club,33,8
+2020,26,Celta Vigo,33,9
+2020,26,Granada CF,33,10
+2020,26,Levante,32,11
+2020,26,Valencia,30,12
+2020,26,Cadiz,28,13
+2020,26,Osasuna,28,14
+2020,26,Getafe,27,15
+2020,26,Valladolid,25,16
+2020,26,Elche,24,17
+2020,26,Alaves,22,18
+2020,26,Eibar,22,19
+2020,26,Huesca,20,20
+2020,27,Atletico Madrid,63,1
+2020,27,Barcelona,59,2
+2020,27,Real Madrid,57,3
+2020,27,Sevilla,54,4
+2020,27,Real Sociedad,45,5
+2020,27,Real Betis,42,6
+2020,27,Villarreal,40,7
+2020,27,Granada CF,36,8
+2020,27,Levante,35,9
+2020,27,Athletic Club,34,10
+2020,27,Celta Vigo,34,11
+2020,27,Valencia,30,12
+2020,27,Cadiz,29,13
+2020,27,Osasuna,29,14
+2020,27,Getafe,28,15
+2020,27,Valladolid,26,16
+2020,27,Elche,24,17
+2020,27,Alaves,23,18
+2020,27,Eibar,22,19
+2020,27,Huesca,20,20
+2020,28,Atletico Madrid,66,1
+2020,28,Barcelona,62,2
+2020,28,Real Madrid,60,3
+2020,28,Sevilla,55,4
+2020,28,Real Betis,45,5
+2020,28,Real Sociedad,45,6
+2020,28,Villarreal,43,7
+2020,28,Granada CF,36,8
+2020,28,Athletic Club,35,9
+2020,28,Levante,35,10
+2020,28,Celta Vigo,34,11
+2020,28,Valencia,33,12
+2020,28,Osasuna,30,13
+2020,28,Cadiz,29,14
+2020,28,Getafe,29,15
+2020,28,Valladolid,27,16
+2020,28,Elche,25,17
+2020,28,Alaves,23,18
+2020,28,Eibar,23,19
+2020,28,Huesca,21,20
+2020,29,Atletico Madrid,66,1
+2020,29,Barcelona,65,2
+2020,29,Real Madrid,63,3
+2020,29,Sevilla,58,4
+2020,29,Real Betis,46,5
+2020,29,Real Sociedad,46,6
+2020,29,Villarreal,46,7
+2020,29,Celta Vigo,37,8
+2020,29,Athletic Club,36,9
+2020,29,Granada CF,36,10
+2020,29,Levante,35,11
+2020,29,Valencia,33,12
+2020,29,Cadiz,32,13
+2020,29,Osasuna,31,14
+2020,29,Getafe,30,15
+2020,29,Valladolid,27,16
+2020,29,Elche,26,17
+2020,29,Huesca,24,18
+2020,29,Alaves,23,19
+2020,29,Eibar,23,20
+2020,30,Atletico Madrid,67,1
+2020,30,Real Madrid,66,2
+2020,30,Barcelona,65,3
+2020,30,Sevilla,61,4
+2020,30,Real Betis,47,5
+2020,30,Real Sociedad,47,6
+2020,30,Villarreal,46,7
+2020,30,Granada CF,39,8
+2020,30,Levante,38,9
+2020,30,Athletic Club,37,10
+2020,30,Celta Vigo,37,11
+2020,30,Cadiz,35,12
+2020,30,Osasuna,34,13
+2020,30,Valencia,34,14
+2020,30,Getafe,30,15
+2020,30,Huesca,27,16
+2020,30,Valladolid,27,17
+2020,30,Elche,26,18
+2020,30,Alaves,24,19
+2020,30,Eibar,23,20
+2020,31,Atletico Madrid,70,1
+2020,31,Real Madrid,69,2
+2020,31,Barcelona,68,3
+2020,31,Sevilla,64,4
+2020,31,Real Sociedad,50,5
+2020,31,Real Betis,48,6
+2020,31,Villarreal,46,7
+2020,31,Granada CF,42,8
+2020,31,Athletic Club,38,9
+2020,31,Levante,38,10
+2020,31,Celta Vigo,37,11
+2020,31,Osasuna,37,12
+2020,31,Cadiz,35,13
+2020,31,Valencia,34,14
+2020,31,Getafe,30,15
+2020,31,Valladolid,28,16
+2020,31,Alaves,27,17
+2020,31,Elche,27,18
+2020,31,Huesca,27,19
+2020,31,Eibar,23,20
+2020,32,Barcelona,71,1
+2020,32,Atletico Madrid,70,2
+2020,32,Real Madrid,70,3
+2020,32,Sevilla,67,4
+2020,32,Real Sociedad,53,5
+2020,32,Real Betis,49,6
+2020,32,Villarreal,46,7
+2020,32,Granada CF,42,8
+2020,32,Athletic Club,41,9
+2020,32,Celta Vigo,40,10
+2020,32,Levante,38,11
+2020,32,Osasuna,37,12
+2020,32,Cadiz,36,13
+2020,32,Valencia,35,14
+2020,32,Getafe,33,15
+2020,32,Elche,30,16
+2020,32,Valladolid,29,17
+2020,32,Alaves,28,18
+2020,32,Huesca,27,19
+2020,32,Eibar,23,20
+2020,33,Atletico Madrid,73,1
+2020,33,Barcelona,71,2
+2020,33,Real Madrid,71,3
+2020,33,Sevilla,70,4
+2020,33,Real Sociedad,53,5
+2020,33,Real Betis,50,6
+2020,33,Villarreal,49,7
+2020,33,Granada CF,45,8
+2020,33,Athletic Club,42,9
+2020,33,Celta Vigo,41,10
+2020,33,Osasuna,40,11
+2020,33,Levante,38,12
+2020,33,Cadiz,37,13
+2020,33,Valencia,36,14
+2020,33,Getafe,34,15
+2020,33,Alaves,31,16
+2020,33,Elche,30,17
+2020,33,Valladolid,30,18
+2020,33,Huesca,27,19
+2020,33,Eibar,23,20
+2020,34,Atletico Madrid,76,1
+2020,34,Barcelona,74,2
+2020,34,Real Madrid,74,3
+2020,34,Sevilla,70,4
+2020,34,Real Sociedad,53,5
+2020,34,Villarreal,52,6
+2020,34,Real Betis,51,7
+2020,34,Athletic Club,45,8
+2020,34,Granada CF,45,9
+2020,34,Celta Vigo,44,10
+2020,34,Cadiz,40,11
+2020,34,Osasuna,40,12
+2020,34,Levante,38,13
+2020,34,Valencia,36,14
+2020,34,Getafe,34,15
+2020,34,Alaves,31,16
+2020,34,Valladolid,31,17
+2020,34,Elche,30,18
+2020,34,Huesca,30,19
+2020,34,Eibar,26,20
+2020,35,Atletico Madrid,77,1
+2020,35,Barcelona,75,2
+2020,35,Real Madrid,75,3
+2020,35,Sevilla,71,4
+2020,35,Real Sociedad,56,5
+2020,35,Real Betis,54,6
+2020,35,Villarreal,52,7
+2020,35,Celta Vigo,47,8
+2020,35,Athletic Club,46,9
+2020,35,Granada CF,45,10
+2020,35,Cadiz,43,11
+2020,35,Osasuna,41,12
+2020,35,Levante,39,13
+2020,35,Valencia,39,14
+2020,35,Getafe,34,15
+2020,35,Alaves,32,16
+2020,35,Valladolid,31,17
+2020,35,Elche,30,18
+2020,35,Huesca,30,19
+2020,35,Eibar,29,20
+2020,36,Atletico Madrid,80,1
+2020,36,Real Madrid,78,2
+2020,36,Barcelona,76,3
+2020,36,Sevilla,74,4
+2020,36,Real Sociedad,56,5
+2020,36,Real Betis,55,6
+2020,36,Villarreal,55,7
+2020,36,Celta Vigo,50,8
+2020,36,Athletic Club,46,9
+2020,36,Granada CF,45,10
+2020,36,Osasuna,44,11
+2020,36,Cadiz,43,12
+2020,36,Levante,40,13
+2020,36,Valencia,39,14
+2020,36,Alaves,35,15
+2020,36,Getafe,34,16
+2020,36,Huesca,33,17
+2020,36,Valladolid,31,18
+2020,36,Eibar,30,19
+2020,36,Elche,30,20
+2020,37,Atletico Madrid,83,1
+2020,37,Real Madrid,81,2
+2020,37,Barcelona,76,3
+2020,37,Sevilla,74,4
+2020,37,Real Sociedad,59,5
+2020,37,Real Betis,58,6
+2020,37,Villarreal,58,7
+2020,37,Celta Vigo,53,8
+2020,37,Athletic Club,46,9
+2020,37,Granada CF,45,10
+2020,37,Osasuna,44,11
+2020,37,Cadiz,43,12
+2020,37,Valencia,42,13
+2020,37,Levante,40,14
+2020,37,Alaves,38,15
+2020,37,Getafe,37,16
+2020,37,Elche,33,17
+2020,37,Huesca,33,18
+2020,37,Valladolid,31,19
+2020,37,Eibar,30,20
+2020,38,Atletico Madrid,86,1
+2020,38,Real Madrid,84,2
+2020,38,Barcelona,79,3
+2020,38,Sevilla,77,4
+2020,38,Real Sociedad,62,5
+2020,38,Real Betis,61,6
+2020,38,Villarreal,58,7
+2020,38,Celta Vigo,53,8
+2020,38,Athletic Club,46,9
+2020,38,Granada CF,46,10
+2020,38,Cadiz,44,11
+2020,38,Osasuna,44,12
+2020,38,Valencia,43,13
+2020,38,Levante,41,14
+2020,38,Alaves,38,15
+2020,38,Getafe,38,16
+2020,38,Elche,36,17
+2020,38,Huesca,34,18
+2020,38,Valladolid,31,19
+2020,38,Eibar,30,20

@@ -1,0 +1,761 @@
+﻿Season,Matchday,Team,Points,Rank
+2023,1,Atletico Madrid,3,1
+2023,1,Cadiz,3,2
+2023,1,Osasuna,3,3
+2023,1,Rayo Vallecano,3,4
+2023,1,Real Betis,3,5
+2023,1,Real Madrid,3,6
+2023,1,Valencia,3,7
+2023,1,Barcelona,1,8
+2023,1,Getafe,1,9
+2023,1,Girona,1,10
+2023,1,Las Palmas,1,11
+2023,1,Mallorca,1,12
+2023,1,Real Sociedad,1,13
+2023,1,Alaves,0,14
+2023,1,Almeria,0,15
+2023,1,Athletic Club,0,16
+2023,1,Celta Vigo,0,17
+2023,1,Granada CF,0,18
+2023,1,Sevilla,0,19
+2023,1,Villarreal,0,20
+2023,2,Rayo Vallecano,6,1
+2023,2,Real Madrid,6,2
+2023,2,Valencia,6,3
+2023,2,Atletico Madrid,4,4
+2023,2,Barcelona,4,5
+2023,2,Girona,4,6
+2023,2,Real Betis,4,7
+2023,2,Alaves,3,8
+2023,2,Athletic Club,3,9
+2023,2,Cadiz,3,10
+2023,2,Osasuna,3,11
+2023,2,Villarreal,3,12
+2023,2,Real Sociedad,2,13
+2023,2,Celta Vigo,1,14
+2023,2,Getafe,1,15
+2023,2,Las Palmas,1,16
+2023,2,Mallorca,1,17
+2023,2,Almeria,0,18
+2023,2,Granada CF,0,19
+2023,2,Sevilla,0,20
+2023,3,Real Madrid,9,1
+2023,3,Atletico Madrid,7,2
+2023,3,Barcelona,7,3
+2023,3,Girona,7,4
+2023,3,Athletic Club,6,5
+2023,3,Osasuna,6,6
+2023,3,Rayo Vallecano,6,7
+2023,3,Valencia,6,8
+2023,3,Cadiz,4,9
+2023,3,Getafe,4,10
+2023,3,Real Betis,4,11
+2023,3,Alaves,3,12
+2023,3,Granada CF,3,13
+2023,3,Real Sociedad,3,14
+2023,3,Villarreal,3,15
+2023,3,Las Palmas,2,16
+2023,3,Almeria,1,17
+2023,3,Celta Vigo,1,18
+2023,3,Mallorca,1,19
+2023,3,Sevilla,0,20
+2023,4,Real Madrid,12,1
+2023,4,Atletico Madrid,10,2
+2023,4,Barcelona,10,3
+2023,4,Girona,10,4
+2023,4,Athletic Club,7,5
+2023,4,Cadiz,7,6
+2023,4,Real Betis,7,7
+2023,4,Alaves,6,8
+2023,4,Osasuna,6,9
+2023,4,Rayo Vallecano,6,10
+2023,4,Real Sociedad,6,11
+2023,4,Valencia,6,12
+2023,4,Celta Vigo,4,13
+2023,4,Getafe,4,14
+2023,4,Granada CF,3,15
+2023,4,Villarreal,3,16
+2023,4,Las Palmas,2,17
+2023,4,Mallorca,2,18
+2023,4,Almeria,1,19
+2023,4,Sevilla,0,20
+2023,5,Real Madrid,15,1
+2023,5,Barcelona,13,2
+2023,5,Girona,13,3
+2023,5,Athletic Club,10,4
+2023,5,Atletico Madrid,10,5
+2023,5,Rayo Vallecano,9,6
+2023,5,Valencia,9,7
+2023,5,Cadiz,7,8
+2023,5,Getafe,7,9
+2023,5,Real Betis,7,10
+2023,5,Alaves,6,11
+2023,5,Osasuna,6,12
+2023,5,Real Sociedad,6,13
+2023,5,Villarreal,6,14
+2023,5,Mallorca,5,15
+2023,5,Celta Vigo,4,16
+2023,5,Granada CF,3,17
+2023,5,Sevilla,3,18
+2023,5,Las Palmas,2,19
+2023,5,Almeria,1,20
+2023,6,Barcelona,16,1
+2023,6,Girona,16,2
+2023,6,Real Madrid,15,3
+2023,6,Athletic Club,13,4
+2023,6,Atletico Madrid,13,5
+2023,6,Rayo Vallecano,10,6
+2023,6,Valencia,10,7
+2023,6,Real Sociedad,9,8
+2023,6,Cadiz,8,9
+2023,6,Real Betis,8,10
+2023,6,Getafe,7,11
+2023,6,Osasuna,7,12
+2023,6,Villarreal,7,13
+2023,6,Alaves,6,14
+2023,6,Las Palmas,5,15
+2023,6,Mallorca,5,16
+2023,6,Celta Vigo,4,17
+2023,6,Sevilla,4,18
+2023,6,Granada CF,3,19
+2023,6,Almeria,2,20
+2023,7,Girona,19,1
+2023,7,Real Madrid,18,2
+2023,7,Barcelona,17,3
+2023,7,Atletico Madrid,16,4
+2023,7,Athletic Club,14,5
+2023,7,Real Sociedad,12,6
+2023,7,Rayo Vallecano,11,7
+2023,7,Valencia,10,8
+2023,7,Cadiz,9,9
+2023,7,Real Betis,9,10
+2023,7,Getafe,8,11
+2023,7,Alaves,7,12
+2023,7,Osasuna,7,13
+2023,7,Sevilla,7,14
+2023,7,Villarreal,7,15
+2023,7,Mallorca,6,16
+2023,7,Celta Vigo,5,17
+2023,7,Las Palmas,5,18
+2023,7,Granada CF,4,19
+2023,7,Almeria,2,20
+2023,8,Real Madrid,21,1
+2023,8,Barcelona,20,2
+2023,8,Atletico Madrid,19,3
+2023,8,Girona,19,4
+2023,8,Real Sociedad,15,5
+2023,8,Athletic Club,14,6
+2023,8,Rayo Vallecano,12,7
+2023,8,Real Betis,12,8
+2023,8,Osasuna,10,9
+2023,8,Valencia,10,10
+2023,8,Cadiz,9,11
+2023,8,Getafe,9,12
+2023,8,Las Palmas,8,13
+2023,8,Villarreal,8,14
+2023,8,Alaves,7,15
+2023,8,Mallorca,7,16
+2023,8,Sevilla,7,17
+2023,8,Celta Vigo,5,18
+2023,8,Granada CF,5,19
+2023,8,Almeria,3,20
+2023,9,Real Madrid,24,1
+2023,9,Atletico Madrid,22,2
+2023,9,Girona,22,3
+2023,9,Barcelona,21,4
+2023,9,Athletic Club,17,5
+2023,9,Real Sociedad,15,6
+2023,9,Rayo Vallecano,13,7
+2023,9,Real Betis,13,8
+2023,9,Las Palmas,11,9
+2023,9,Valencia,11,10
+2023,9,Getafe,10,11
+2023,9,Osasuna,10,12
+2023,9,Cadiz,9,13
+2023,9,Alaves,8,14
+2023,9,Mallorca,8,15
+2023,9,Sevilla,8,16
+2023,9,Villarreal,8,17
+2023,9,Celta Vigo,6,18
+2023,9,Granada CF,6,19
+2023,9,Almeria,3,20
+2023,10,Atletico Madrid,25,1
+2023,10,Girona,25,2
+2023,10,Real Madrid,25,3
+2023,10,Barcelona,24,4
+2023,10,Real Sociedad,18,5
+2023,10,Athletic Club,17,6
+2023,10,Rayo Vallecano,16,7
+2023,10,Real Betis,14,8
+2023,10,Valencia,14,9
+2023,10,Osasuna,13,10
+2023,10,Getafe,11,11
+2023,10,Las Palmas,11,12
+2023,10,Alaves,9,13
+2023,10,Cadiz,9,14
+2023,10,Sevilla,9,15
+2023,10,Villarreal,9,16
+2023,10,Mallorca,8,17
+2023,10,Celta Vigo,6,18
+2023,10,Granada CF,6,19
+2023,10,Almeria,3,20
+2023,11,Atletico Madrid,28,1
+2023,11,Girona,28,2
+2023,11,Real Madrid,28,3
+2023,11,Barcelona,24,4
+2023,11,Real Sociedad,19,5
+2023,11,Athletic Club,18,6
+2023,11,Rayo Vallecano,17,7
+2023,11,Real Betis,17,8
+2023,11,Valencia,15,9
+2023,11,Las Palmas,14,10
+2023,11,Osasuna,13,11
+2023,11,Getafe,12,12
+2023,11,Villarreal,12,13
+2023,11,Cadiz,10,14
+2023,11,Sevilla,10,15
+2023,11,Alaves,9,16
+2023,11,Mallorca,9,17
+2023,11,Celta Vigo,6,18
+2023,11,Granada CF,6,19
+2023,11,Almeria,3,20
+2023,12,Girona,31,1
+2023,12,Real Madrid,29,2
+2023,12,Atletico Madrid,28,3
+2023,12,Barcelona,27,4
+2023,12,Athletic Club,21,5
+2023,12,Real Betis,20,6
+2023,12,Real Sociedad,19,7
+2023,12,Rayo Vallecano,18,8
+2023,12,Valencia,18,9
+2023,12,Las Palmas,17,10
+2023,12,Getafe,15,11
+2023,12,Osasuna,13,12
+2023,12,Alaves,12,13
+2023,12,Villarreal,12,14
+2023,12,Sevilla,11,15
+2023,12,Cadiz,10,16
+2023,12,Mallorca,9,17
+2023,12,Celta Vigo,7,18
+2023,12,Granada CF,6,19
+2023,12,Almeria,3,20
+2023,13,Girona,34,1
+2023,13,Real Madrid,32,2
+2023,13,Atletico Madrid,31,3
+2023,13,Barcelona,30,4
+2023,13,Athletic Club,24,5
+2023,13,Real Sociedad,22,6
+2023,13,Real Betis,21,7
+2023,13,Las Palmas,18,8
+2023,13,Rayo Vallecano,18,9
+2023,13,Valencia,18,10
+2023,13,Getafe,16,11
+2023,13,Osasuna,14,12
+2023,13,Alaves,12,13
+2023,13,Sevilla,12,14
+2023,13,Villarreal,12,15
+2023,13,Cadiz,11,16
+2023,13,Mallorca,10,17
+2023,13,Celta Vigo,7,18
+2023,13,Granada CF,7,19
+2023,13,Almeria,3,20
+2023,14,Girona,35,1
+2023,14,Real Madrid,35,2
+2023,14,Atletico Madrid,34,3
+2023,14,Barcelona,31,4
+2023,14,Athletic Club,25,5
+2023,14,Real Sociedad,25,6
+2023,14,Real Betis,24,7
+2023,14,Getafe,19,8
+2023,14,Rayo Vallecano,19,9
+2023,14,Valencia,19,10
+2023,14,Las Palmas,18,11
+2023,14,Alaves,15,12
+2023,14,Villarreal,15,13
+2023,14,Osasuna,14,14
+2023,14,Sevilla,12,15
+2023,14,Cadiz,11,16
+2023,14,Mallorca,10,17
+2023,14,Celta Vigo,8,18
+2023,14,Granada CF,7,19
+2023,14,Almeria,3,20
+2023,15,Girona,38,1
+2023,15,Real Madrid,38,2
+2023,15,Atletico Madrid,34,3
+2023,15,Barcelona,34,4
+2023,15,Athletic Club,28,5
+2023,15,Real Sociedad,26,6
+2023,15,Real Betis,25,7
+2023,15,Las Palmas,21,8
+2023,15,Getafe,19,9
+2023,15,Rayo Vallecano,19,10
+2023,15,Valencia,19,11
+2023,15,Alaves,16,12
+2023,15,Villarreal,16,13
+2023,15,Osasuna,15,14
+2023,15,Sevilla,13,15
+2023,15,Cadiz,12,16
+2023,15,Mallorca,11,17
+2023,15,Celta Vigo,9,18
+2023,15,Granada CF,7,19
+2023,15,Almeria,4,20
+2023,16,Girona,41,1
+2023,16,Real Madrid,39,2
+2023,16,Atletico Madrid,37,3
+2023,16,Barcelona,34,4
+2023,16,Athletic Club,29,5
+2023,16,Real Sociedad,29,6
+2023,16,Real Betis,26,7
+2023,16,Las Palmas,24,8
+2023,16,Getafe,22,9
+2023,16,Rayo Vallecano,20,10
+2023,16,Valencia,19,11
+2023,16,Alaves,16,12
+2023,16,Osasuna,16,13
+2023,16,Villarreal,16,14
+2023,16,Mallorca,14,15
+2023,16,Cadiz,13,16
+2023,16,Sevilla,13,17
+2023,16,Celta Vigo,10,18
+2023,16,Granada CF,8,19
+2023,16,Almeria,4,20
+2023,17,Girona,44,1
+2023,17,Real Madrid,42,2
+2023,17,Atletico Madrid,37,3
+2023,17,Barcelona,35,4
+2023,17,Athletic Club,32,5
+2023,17,Real Sociedad,30,6
+2023,17,Real Betis,27,7
+2023,17,Getafe,25,8
+2023,17,Las Palmas,25,9
+2023,17,Rayo Vallecano,20,10
+2023,17,Valencia,20,11
+2023,17,Osasuna,19,12
+2023,17,Alaves,16,13
+2023,17,Villarreal,16,14
+2023,17,Mallorca,15,15
+2023,17,Cadiz,14,16
+2023,17,Celta Vigo,13,17
+2023,17,Sevilla,13,18
+2023,17,Granada CF,8,19
+2023,17,Almeria,5,20
+2023,18,Girona,45,1
+2023,18,Real Madrid,45,2
+2023,18,Atletico Madrid,38,3
+2023,18,Barcelona,38,4
+2023,18,Athletic Club,35,5
+2023,18,Real Sociedad,31,6
+2023,18,Real Betis,28,7
+2023,18,Getafe,26,8
+2023,18,Las Palmas,25,9
+2023,18,Valencia,23,10
+2023,18,Rayo Vallecano,20,11
+2023,18,Osasuna,19,12
+2023,18,Villarreal,19,13
+2023,18,Mallorca,18,14
+2023,18,Alaves,16,15
+2023,18,Sevilla,16,16
+2023,18,Cadiz,15,17
+2023,18,Celta Vigo,13,18
+2023,18,Granada CF,8,19
+2023,18,Almeria,5,20
+2023,19,Girona,48,1
+2023,19,Real Madrid,48,2
+2023,19,Barcelona,41,3
+2023,19,Athletic Club,38,4
+2023,19,Atletico Madrid,38,5
+2023,19,Real Sociedad,32,6
+2023,19,Real Betis,28,7
+2023,19,Getafe,26,8
+2023,19,Valencia,26,9
+2023,19,Las Palmas,25,10
+2023,19,Rayo Vallecano,23,11
+2023,19,Osasuna,22,12
+2023,19,Villarreal,19,13
+2023,19,Mallorca,18,14
+2023,19,Alaves,17,15
+2023,19,Celta Vigo,16,16
+2023,19,Sevilla,16,17
+2023,19,Cadiz,15,18
+2023,19,Granada CF,11,19
+2023,19,Almeria,5,20
+2023,20,Real Madrid,51,1
+2023,20,Girona,49,2
+2023,20,Barcelona,44,3
+2023,20,Athletic Club,41,4
+2023,20,Atletico Madrid,41,5
+2023,20,Real Sociedad,32,6
+2023,20,Real Betis,31,7
+2023,20,Valencia,29,8
+2023,20,Las Palmas,28,9
+2023,20,Getafe,26,10
+2023,20,Rayo Vallecano,23,11
+2023,20,Osasuna,22,12
+2023,20,Alaves,20,13
+2023,20,Mallorca,19,14
+2023,20,Villarreal,19,15
+2023,20,Celta Vigo,17,16
+2023,20,Sevilla,16,17
+2023,20,Cadiz,15,18
+2023,20,Granada CF,11,19
+2023,20,Almeria,6,20
+2023,21,Real Madrid,54,1
+2023,21,Girona,52,2
+2023,21,Barcelona,47,3
+2023,21,Atletico Madrid,44,4
+2023,21,Athletic Club,41,5
+2023,21,Real Sociedad,35,6
+2023,21,Valencia,32,7
+2023,21,Las Palmas,31,8
+2023,21,Real Betis,31,9
+2023,21,Getafe,26,10
+2023,21,Osasuna,25,11
+2023,21,Alaves,23,12
+2023,21,Rayo Vallecano,23,13
+2023,21,Mallorca,20,14
+2023,21,Villarreal,20,15
+2023,21,Celta Vigo,17,16
+2023,21,Sevilla,16,17
+2023,21,Cadiz,15,18
+2023,21,Granada CF,11,19
+2023,21,Almeria,6,20
+2023,22,Real Madrid,57,1
+2023,22,Girona,55,2
+2023,22,Atletico Madrid,47,3
+2023,22,Barcelona,47,4
+2023,22,Athletic Club,42,5
+2023,22,Real Sociedad,36,6
+2023,22,Real Betis,34,7
+2023,22,Valencia,32,8
+2023,22,Las Palmas,31,9
+2023,22,Getafe,29,10
+2023,22,Alaves,26,11
+2023,22,Osasuna,26,12
+2023,22,Rayo Vallecano,24,13
+2023,22,Villarreal,23,14
+2023,22,Mallorca,20,15
+2023,22,Celta Vigo,17,16
+2023,22,Sevilla,17,17
+2023,22,Cadiz,16,18
+2023,22,Granada CF,11,19
+2023,22,Almeria,6,20
+2023,23,Real Madrid,58,1
+2023,23,Girona,56,2
+2023,23,Barcelona,50,3
+2023,23,Atletico Madrid,48,4
+2023,23,Athletic Club,45,5
+2023,23,Real Sociedad,37,6
+2023,23,Real Betis,35,7
+2023,23,Valencia,35,8
+2023,23,Las Palmas,32,9
+2023,23,Getafe,30,10
+2023,23,Alaves,26,11
+2023,23,Osasuna,26,12
+2023,23,Rayo Vallecano,24,13
+2023,23,Villarreal,24,14
+2023,23,Celta Vigo,20,15
+2023,23,Mallorca,20,16
+2023,23,Sevilla,20,17
+2023,23,Cadiz,17,18
+2023,23,Granada CF,12,19
+2023,23,Almeria,6,20
+2023,24,Real Madrid,61,1
+2023,24,Girona,56,2
+2023,24,Barcelona,51,3
+2023,24,Atletico Madrid,48,4
+2023,24,Athletic Club,46,5
+2023,24,Real Betis,38,6
+2023,24,Real Sociedad,37,7
+2023,24,Las Palmas,35,8
+2023,24,Valencia,35,9
+2023,24,Getafe,33,10
+2023,24,Osasuna,29,11
+2023,24,Alaves,27,12
+2023,24,Villarreal,25,13
+2023,24,Rayo Vallecano,24,14
+2023,24,Mallorca,23,15
+2023,24,Sevilla,23,16
+2023,24,Celta Vigo,20,17
+2023,24,Cadiz,17,18
+2023,24,Granada CF,13,19
+2023,24,Almeria,7,20
+2023,25,Real Madrid,62,1
+2023,25,Girona,56,2
+2023,25,Barcelona,54,3
+2023,25,Atletico Madrid,51,4
+2023,25,Athletic Club,49,5
+2023,25,Real Sociedad,40,6
+2023,25,Real Betis,39,7
+2023,25,Valencia,36,8
+2023,25,Las Palmas,35,9
+2023,25,Getafe,34,10
+2023,25,Osasuna,32,11
+2023,25,Alaves,28,12
+2023,25,Villarreal,26,13
+2023,25,Rayo Vallecano,25,14
+2023,25,Sevilla,24,15
+2023,25,Mallorca,23,16
+2023,25,Celta Vigo,20,17
+2023,25,Cadiz,17,18
+2023,25,Granada CF,14,19
+2023,25,Almeria,8,20
+2023,26,Real Madrid,65,1
+2023,26,Girona,59,2
+2023,26,Barcelona,57,3
+2023,26,Atletico Madrid,52,4
+2023,26,Athletic Club,49,5
+2023,26,Real Betis,42,6
+2023,26,Real Sociedad,40,7
+2023,26,Valencia,39,8
+2023,26,Las Palmas,36,9
+2023,26,Getafe,34,10
+2023,26,Osasuna,33,11
+2023,26,Alaves,29,12
+2023,26,Villarreal,29,13
+2023,26,Rayo Vallecano,25,14
+2023,26,Mallorca,24,15
+2023,26,Sevilla,24,16
+2023,26,Celta Vigo,21,17
+2023,26,Cadiz,18,18
+2023,26,Granada CF,14,19
+2023,26,Almeria,9,20
+2023,27,Real Madrid,66,1
+2023,27,Girona,59,2
+2023,27,Barcelona,58,3
+2023,27,Atletico Madrid,55,4
+2023,27,Athletic Club,50,5
+2023,27,Real Betis,42,6
+2023,27,Real Sociedad,40,7
+2023,27,Valencia,40,8
+2023,27,Las Palmas,37,9
+2023,27,Osasuna,36,10
+2023,27,Getafe,35,11
+2023,27,Villarreal,32,12
+2023,27,Alaves,29,13
+2023,27,Mallorca,27,14
+2023,27,Sevilla,27,15
+2023,27,Rayo Vallecano,26,16
+2023,27,Celta Vigo,24,17
+2023,27,Cadiz,19,18
+2023,27,Granada CF,14,19
+2023,27,Almeria,9,20
+2023,28,Real Madrid,69,1
+2023,28,Girona,62,2
+2023,28,Barcelona,61,3
+2023,28,Atletico Madrid,55,4
+2023,28,Athletic Club,53,5
+2023,28,Real Sociedad,43,6
+2023,28,Valencia,43,7
+2023,28,Real Betis,42,8
+2023,28,Las Palmas,37,9
+2023,28,Osasuna,36,10
+2023,28,Getafe,35,11
+2023,28,Villarreal,35,12
+2023,28,Alaves,32,13
+2023,28,Sevilla,28,14
+2023,28,Mallorca,27,15
+2023,28,Rayo Vallecano,26,16
+2023,28,Celta Vigo,24,17
+2023,28,Cadiz,22,18
+2023,28,Granada CF,14,19
+2023,28,Almeria,10,20
+2023,29,Real Madrid,72,1
+2023,29,Barcelona,64,2
+2023,29,Girona,62,3
+2023,29,Athletic Club,56,4
+2023,29,Atletico Madrid,55,5
+2023,29,Real Sociedad,46,6
+2023,29,Valencia,43,7
+2023,29,Real Betis,42,8
+2023,29,Getafe,38,9
+2023,29,Villarreal,38,10
+2023,29,Las Palmas,37,11
+2023,29,Osasuna,36,12
+2023,29,Alaves,32,13
+2023,29,Mallorca,30,14
+2023,29,Rayo Vallecano,29,15
+2023,29,Sevilla,28,16
+2023,29,Celta Vigo,27,17
+2023,29,Cadiz,22,18
+2023,29,Granada CF,14,19
+2023,29,Almeria,13,20
+2023,30,Real Madrid,75,1
+2023,30,Barcelona,67,2
+2023,30,Girona,65,3
+2023,30,Atletico Madrid,58,4
+2023,30,Athletic Club,56,5
+2023,30,Real Sociedad,49,6
+2023,30,Valencia,44,7
+2023,30,Real Betis,42,8
+2023,30,Osasuna,39,9
+2023,30,Getafe,38,10
+2023,30,Villarreal,38,11
+2023,30,Las Palmas,37,12
+2023,30,Alaves,32,13
+2023,30,Mallorca,31,14
+2023,30,Sevilla,31,15
+2023,30,Rayo Vallecano,30,16
+2023,30,Celta Vigo,28,17
+2023,30,Cadiz,25,18
+2023,30,Granada CF,14,19
+2023,30,Almeria,13,20
+2023,31,Real Madrid,78,1
+2023,31,Barcelona,70,2
+2023,31,Girona,65,3
+2023,31,Atletico Madrid,61,4
+2023,31,Athletic Club,57,5
+2023,31,Real Sociedad,50,6
+2023,31,Valencia,47,7
+2023,31,Real Betis,45,8
+2023,31,Getafe,39,9
+2023,31,Osasuna,39,10
+2023,31,Villarreal,39,11
+2023,31,Las Palmas,37,12
+2023,31,Sevilla,34,13
+2023,31,Alaves,32,14
+2023,31,Mallorca,31,15
+2023,31,Rayo Vallecano,31,16
+2023,31,Celta Vigo,28,17
+2023,31,Cadiz,25,18
+2023,31,Granada CF,17,19
+2023,31,Almeria,14,20
+2023,32,Real Madrid,81,1
+2023,32,Barcelona,70,2
+2023,32,Girona,68,3
+2023,32,Atletico Madrid,61,4
+2023,32,Athletic Club,58,5
+2023,32,Real Sociedad,51,6
+2023,32,Real Betis,48,7
+2023,32,Valencia,47,8
+2023,32,Villarreal,42,9
+2023,32,Getafe,40,10
+2023,32,Osasuna,39,11
+2023,32,Las Palmas,37,12
+2023,32,Sevilla,37,13
+2023,32,Alaves,35,14
+2023,32,Rayo Vallecano,34,15
+2023,32,Celta Vigo,31,16
+2023,32,Mallorca,31,17
+2023,32,Cadiz,25,18
+2023,32,Granada CF,18,19
+2023,32,Almeria,14,20
+2023,33,Real Madrid,84,1
+2023,33,Barcelona,73,2
+2023,33,Girona,71,3
+2023,33,Atletico Madrid,64,4
+2023,33,Athletic Club,58,5
+2023,33,Real Sociedad,51,6
+2023,33,Real Betis,49,7
+2023,33,Valencia,47,8
+2023,33,Villarreal,45,9
+2023,33,Getafe,43,10
+2023,33,Osasuna,39,11
+2023,33,Alaves,38,12
+2023,33,Sevilla,38,13
+2023,33,Las Palmas,37,14
+2023,33,Rayo Vallecano,34,15
+2023,33,Mallorca,32,16
+2023,33,Celta Vigo,31,17
+2023,33,Cadiz,26,18
+2023,33,Granada CF,21,19
+2023,33,Almeria,14,20
+2023,34,Real Madrid,87,1
+2023,34,Girona,74,2
+2023,34,Barcelona,73,3
+2023,34,Atletico Madrid,67,4
+2023,34,Athletic Club,61,5
+2023,34,Real Sociedad,54,6
+2023,34,Real Betis,52,7
+2023,34,Valencia,47,8
+2023,34,Villarreal,45,9
+2023,34,Getafe,43,10
+2023,34,Alaves,41,11
+2023,34,Sevilla,41,12
+2023,34,Osasuna,39,13
+2023,34,Las Palmas,37,14
+2023,34,Celta Vigo,34,15
+2023,34,Rayo Vallecano,34,16
+2023,34,Mallorca,32,17
+2023,34,Cadiz,26,18
+2023,34,Granada CF,21,19
+2023,34,Almeria,17,20
+2023,35,Real Madrid,90,1
+2023,35,Barcelona,76,2
+2023,35,Girona,75,3
+2023,35,Atletico Madrid,70,4
+2023,35,Athletic Club,62,5
+2023,35,Real Betis,55,6
+2023,35,Real Sociedad,54,7
+2023,35,Valencia,48,8
+2023,35,Villarreal,48,9
+2023,35,Getafe,43,10
+2023,35,Alaves,42,11
+2023,35,Sevilla,41,12
+2023,35,Osasuna,40,13
+2023,35,Las Palmas,37,14
+2023,35,Mallorca,35,15
+2023,35,Rayo Vallecano,35,16
+2023,35,Celta Vigo,34,17
+2023,35,Cadiz,29,18
+2023,35,Granada CF,21,19
+2023,35,Almeria,17,20
+2023,36,Real Madrid,93,1
+2023,36,Barcelona,79,2
+2023,36,Girona,75,3
+2023,36,Atletico Madrid,73,4
+2023,36,Athletic Club,62,5
+2023,36,Real Sociedad,57,6
+2023,36,Real Betis,56,7
+2023,36,Villarreal,51,8
+2023,36,Valencia,48,9
+2023,36,Getafe,43,10
+2023,36,Alaves,42,11
+2023,36,Osasuna,41,12
+2023,36,Sevilla,41,13
+2023,36,Las Palmas,38,14
+2023,36,Rayo Vallecano,38,15
+2023,36,Celta Vigo,37,16
+2023,36,Mallorca,36,17
+2023,36,Cadiz,32,18
+2023,36,Granada CF,21,19
+2023,36,Almeria,17,20
+2023,37,Real Madrid,94,1
+2023,37,Barcelona,82,2
+2023,37,Girona,78,3
+2023,37,Atletico Madrid,73,4
+2023,37,Athletic Club,65,5
+2023,37,Real Sociedad,60,6
+2023,37,Real Betis,56,7
+2023,37,Villarreal,52,8
+2023,37,Valencia,48,9
+2023,37,Alaves,45,10
+2023,37,Osasuna,44,11
+2023,37,Getafe,43,12
+2023,37,Sevilla,41,13
+2023,37,Celta Vigo,40,14
+2023,37,Las Palmas,39,15
+2023,37,Rayo Vallecano,38,16
+2023,37,Mallorca,37,17
+2023,37,Cadiz,33,18
+2023,37,Granada CF,21,19
+2023,37,Almeria,18,20
+2023,38,Real Madrid,95,1
+2023,38,Barcelona,85,2
+2023,38,Girona,81,3
+2023,38,Atletico Madrid,76,4
+2023,38,Athletic Club,68,5
+2023,38,Real Sociedad,60,6
+2023,38,Real Betis,57,7
+2023,38,Villarreal,53,8
+2023,38,Valencia,49,9
+2023,38,Alaves,46,10
+2023,38,Osasuna,45,11
+2023,38,Getafe,43,12
+2023,38,Celta Vigo,41,13
+2023,38,Sevilla,41,14
+2023,38,Las Palmas,40,15
+2023,38,Mallorca,40,16
+2023,38,Rayo Vallecano,38,17
+2023,38,Cadiz,33,18
+2023,38,Almeria,21,19
+2023,38,Granada CF,21,20
